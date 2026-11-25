@@ -1,0 +1,4 @@
+version,row,core,median_nuclei,resid_um,r_50um
+A,sparse,C-8,27.5,2.27,0.6889
+A,intermediate,B-5,41.0,3.85,0.8282
+A,dense,D-6,112.5,2.27,0.8113

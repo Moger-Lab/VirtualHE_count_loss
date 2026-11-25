@@ -1,0 +1,5 @@
+version,row,patch_uid,rule,core,bucket,stromal,n_real_orig,eligible,focus,tissue_iou,dark_frac,valid_frac,n_fake_CG,n_fake_CG+M,n_fake_CG+M+A,n_fake_CG+M+C,n_fake_CG_s7,n_fake_CG_s123
+E (unselected),sparse,H-4_eval_1323_2205,"random, seed 0",H-4,low,0,28,True,0.0008552693761885,0.2463008351488743,0.001953125,1.0,36,49,47,36,60,45
+E (unselected),intermediate,G-9_eval_2205_1764,"random, seed 0",G-9,med,0,52,False,0.0015918121207505,0.3399656490991501,0.0417556762695312,1.0,63,50,46,34,62,56
+E (unselected),dense,F-7_eval_3087_1764,"random, seed 0",F-7,high,0,78,True,0.0022021108306944,0.1775524702456651,0.0014533996582031,1.0,39,47,60,49,57,43
+E (unselected),stromal,C-2_eval_3087_3528,"random, seed 0",C-2,low,1,23,True,0.0014319280162453,0.3948326492405949,0.0036582946777343,1.0,40,20,26,13,40,28

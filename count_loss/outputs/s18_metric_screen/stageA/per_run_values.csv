@@ -1,0 +1,865 @@
+metric,detector,baseline,model,run,value
+M1 nuclear area,stardist,rt,CG,CG_full,0.9587198994784585
+M1 nuclear area,stardist,rt,CG,CG_full_s7,0.9803685897435896
+M1 nuclear area,stardist,rt,CG,CG_full_s123,0.7824441246652944
+M1 nuclear area,stardist,rt,CG+M,CGM_full,0.8330663776962733
+M1 nuclear area,stardist,rt,CG+M,CGM_full_s7,0.8568467829550941
+M1 nuclear area,stardist,rt,CG+M,CGM_full_s123,0.927078321304464
+M1 nuclear area,stardist,rt,CG+M+A,A1_full,0.874047546819654
+M1 nuclear area,stardist,rt,CG+M+A,A1_full_s7,0.8221764284251485
+M1 nuclear area,stardist,rt,CG+M+A,A1_full_s123,0.7518470556161396
+M1 nuclear area,stardist,rt,CG+M+C,A5_full,0.9455478067515666
+M1 nuclear area,stardist,rt,CG+M+C,A5_full_s7,0.8223420110093507
+M1 nuclear area,stardist,rt,CG+M+C,A5_full_s123,1.0056990636099452
+M1 nuclear area,stardist,real,CG,CG_full,0.9696060037523453
+M1 nuclear area,stardist,real,CG,CG_full_s7,0.9917520050158051
+M1 nuclear area,stardist,real,CG,CG_full_s123,0.79193663779216
+M1 nuclear area,stardist,real,CG+M,CGM_full,0.8481206293706294
+M1 nuclear area,stardist,real,CG+M,CGM_full_s7,0.8696443743172715
+M1 nuclear area,stardist,real,CG+M,CGM_full_s123,0.9406538875971191
+M1 nuclear area,stardist,real,CG+M+A,A1_full,0.8859792290433203
+M1 nuclear area,stardist,real,CG+M+A,A1_full_s7,0.8358302472599409
+M1 nuclear area,stardist,real,CG+M+A,A1_full_s123,0.761537663868665
+M1 nuclear area,stardist,real,CG+M+C,A5_full,0.9510380976926109
+M1 nuclear area,stardist,real,CG+M+C,A5_full_s7,0.8311505908543586
+M1 nuclear area,stardist,real,CG+M+C,A5_full_s123,1.0126391418188567
+M2 solidity,stardist,rt,CG,CG_full,0.9991934780988307
+M2 solidity,stardist,rt,CG,CG_full_s7,1.0001920118664465
+M2 solidity,stardist,rt,CG,CG_full_s123,0.9969731103940684
+M2 solidity,stardist,rt,CG+M,CGM_full,0.9982777429812015
+M2 solidity,stardist,rt,CG+M,CGM_full_s7,0.9985621311557167
+M2 solidity,stardist,rt,CG+M,CGM_full_s123,0.9989654281666069
+M2 solidity,stardist,rt,CG+M+A,A1_full,0.9983261275201543
+M2 solidity,stardist,rt,CG+M+A,A1_full_s7,0.9976395550097106
+M2 solidity,stardist,rt,CG+M+A,A1_full_s123,0.9961906358821249
+M2 solidity,stardist,rt,CG+M+C,A5_full,0.9997201983341737
+M2 solidity,stardist,rt,CG+M+C,A5_full_s7,0.9982709396210158
+M2 solidity,stardist,rt,CG+M+C,A5_full_s123,1.0004366334512342
+M2 solidity,stardist,real,CG,CG_full,0.9994001407273534
+M2 solidity,stardist,real,CG,CG_full_s7,1.0004283739167568
+M2 solidity,stardist,real,CG,CG_full_s123,0.9971317491462821
+M2 solidity,stardist,real,CG+M,CGM_full,0.9985440839379767
+M2 solidity,stardist,real,CG+M,CGM_full_s7,0.998840724468482
+M2 solidity,stardist,real,CG+M,CGM_full_s123,0.999431675005563
+M2 solidity,stardist,real,CG+M+A,A1_full,0.9986105003312857
+M2 solidity,stardist,real,CG+M+A,A1_full_s7,0.9979643324511118
+M2 solidity,stardist,real,CG+M+A,A1_full_s123,0.9963278729283257
+M2 solidity,stardist,real,CG+M+C,A5_full,0.9999055895348704
+M2 solidity,stardist,real,CG+M+C,A5_full_s7,0.998471691066315
+M2 solidity,stardist,real,CG+M+C,A5_full_s123,1.0006069481167388
+M2 eccentricity,stardist,rt,CG,CG_full,1.0146866699928676
+M2 eccentricity,stardist,rt,CG,CG_full_s7,0.9842866125388614
+M2 eccentricity,stardist,rt,CG,CG_full_s123,1.0060020216678478
+M2 eccentricity,stardist,rt,CG+M,CGM_full,0.9836030646630214
+M2 eccentricity,stardist,rt,CG+M,CGM_full_s7,0.9900849539184962
+M2 eccentricity,stardist,rt,CG+M,CGM_full_s123,0.9978365077064835
+M2 eccentricity,stardist,rt,CG+M+A,A1_full,1.0048019383046918
+M2 eccentricity,stardist,rt,CG+M+A,A1_full_s7,1.0019644839700965
+M2 eccentricity,stardist,rt,CG+M+A,A1_full_s123,1.0262956143789292
+M2 eccentricity,stardist,rt,CG+M+C,A5_full,0.9789256091237611
+M2 eccentricity,stardist,rt,CG+M+C,A5_full_s7,0.9614855845983874
+M2 eccentricity,stardist,rt,CG+M+C,A5_full_s123,0.9700553661828997
+M2 eccentricity,stardist,real,CG,CG_full,1.0115743008834497
+M2 eccentricity,stardist,real,CG,CG_full_s7,0.9818259598354591
+M2 eccentricity,stardist,real,CG,CG_full_s123,1.00438775362661
+M2 eccentricity,stardist,real,CG+M,CGM_full,0.9827040857400611
+M2 eccentricity,stardist,real,CG+M,CGM_full_s7,0.9886502932879061
+M2 eccentricity,stardist,real,CG+M,CGM_full_s123,0.9956589991698066
+M2 eccentricity,stardist,real,CG+M+A,A1_full,1.0027839835116392
+M2 eccentricity,stardist,real,CG+M+A,A1_full_s7,0.9990238961968467
+M2 eccentricity,stardist,real,CG+M+A,A1_full_s123,1.0255777516285436
+M2 eccentricity,stardist,real,CG+M+C,A5_full,0.975676333783438
+M2 eccentricity,stardist,real,CG+M+C,A5_full_s7,0.9584157871936949
+M2 eccentricity,stardist,real,CG+M+C,A5_full_s123,0.9669126855012724
+M3 nearest-neighbour distance,stardist,rt,CG,CG_full,1.060072020014175
+M3 nearest-neighbour distance,stardist,rt,CG,CG_full_s7,0.9894972630050314
+M3 nearest-neighbour distance,stardist,rt,CG,CG_full_s123,1.030254277512599
+M3 nearest-neighbour distance,stardist,rt,CG+M,CGM_full,1.0843747878199679
+M3 nearest-neighbour distance,stardist,rt,CG+M,CGM_full_s7,1.0904697075520402
+M3 nearest-neighbour distance,stardist,rt,CG+M,CGM_full_s123,1.100349729700925
+M3 nearest-neighbour distance,stardist,rt,CG+M+A,A1_full,1.115048037515698
+M3 nearest-neighbour distance,stardist,rt,CG+M+A,A1_full_s7,1.2273963904238254
+M3 nearest-neighbour distance,stardist,rt,CG+M+A,A1_full_s123,0.9499581732836584
+M3 nearest-neighbour distance,stardist,rt,CG+M+C,A5_full,1.1444725807865181
+M3 nearest-neighbour distance,stardist,rt,CG+M+C,A5_full_s7,1.065654998375317
+M3 nearest-neighbour distance,stardist,rt,CG+M+C,A5_full_s123,1.1304276000993712
+M3 nearest-neighbour distance,stardist,real,CG,CG_full,1.0614547184842764
+M3 nearest-neighbour distance,stardist,real,CG,CG_full_s7,0.9912001071531833
+M3 nearest-neighbour distance,stardist,real,CG,CG_full_s123,1.036158722139711
+M3 nearest-neighbour distance,stardist,real,CG+M,CGM_full,1.077116126613852
+M3 nearest-neighbour distance,stardist,real,CG+M,CGM_full_s7,1.0970295603598175
+M3 nearest-neighbour distance,stardist,real,CG+M,CGM_full_s123,1.0985173805724162
+M3 nearest-neighbour distance,stardist,real,CG+M+A,A1_full,1.1175010742273033
+M3 nearest-neighbour distance,stardist,real,CG+M+A,A1_full_s7,1.228239159711112
+M3 nearest-neighbour distance,stardist,real,CG+M+A,A1_full_s123,0.9480907591427898
+M3 nearest-neighbour distance,stardist,real,CG+M+C,A5_full,1.1429177527451495
+M3 nearest-neighbour distance,stardist,real,CG+M+C,A5_full_s7,1.066900085177937
+M3 nearest-neighbour distance,stardist,real,CG+M+C,A5_full_s123,1.1292709444668398
+M3 cell territory,stardist,rt,CG,CG_full,1.0369851541804902
+M3 cell territory,stardist,rt,CG,CG_full_s7,0.9354677401020655
+M3 cell territory,stardist,rt,CG,CG_full_s123,1.0843385686631684
+M3 cell territory,stardist,rt,CG+M,CGM_full,1.1141108677822216
+M3 cell territory,stardist,rt,CG+M,CGM_full_s7,1.1253498296166633
+M3 cell territory,stardist,rt,CG+M,CGM_full_s123,1.1806548518344144
+M3 cell territory,stardist,rt,CG+M+A,A1_full,1.1760976343827123
+M3 cell territory,stardist,rt,CG+M+A,A1_full_s7,1.613135225918301
+M3 cell territory,stardist,rt,CG+M+A,A1_full_s123,0.8021659580768661
+M3 cell territory,stardist,rt,CG+M+C,A5_full,1.2826479165248714
+M3 cell territory,stardist,rt,CG+M+C,A5_full_s7,1.131452922077922
+M3 cell territory,stardist,rt,CG+M+C,A5_full_s123,1.286586528495112
+M3 cell territory,stardist,real,CG,CG_full,1.0394225058388
+M3 cell territory,stardist,real,CG,CG_full_s7,0.9373622697583162
+M3 cell territory,stardist,real,CG,CG_full_s123,1.0716606798847268
+M3 cell territory,stardist,real,CG+M,CGM_full,1.1145907406362285
+M3 cell territory,stardist,real,CG+M,CGM_full_s7,1.1310118539114193
+M3 cell territory,stardist,real,CG+M,CGM_full_s123,1.1902262259899796
+M3 cell territory,stardist,real,CG+M+A,A1_full,1.1750862213789492
+M3 cell territory,stardist,real,CG+M+A,A1_full_s7,1.6081959037406124
+M3 cell territory,stardist,real,CG+M+A,A1_full_s123,0.7987773304355055
+M3 cell territory,stardist,real,CG+M+C,A5_full,1.283290738973888
+M3 cell territory,stardist,real,CG+M+C,A5_full_s7,1.146716150838359
+M3 cell territory,stardist,real,CG+M+C,A5_full_s123,1.2888300743697032
+M4 nuclear H OD,stardist,rt,CG,CG_full,1.0822796144836824
+M4 nuclear H OD,stardist,rt,CG,CG_full_s7,1.0284315202076675
+M4 nuclear H OD,stardist,rt,CG,CG_full_s123,1.2052592557222426
+M4 nuclear H OD,stardist,rt,CG+M,CGM_full,1.1747130951653355
+M4 nuclear H OD,stardist,rt,CG+M,CGM_full_s7,1.1262421734221397
+M4 nuclear H OD,stardist,rt,CG+M,CGM_full_s123,1.1086950883764022
+M4 nuclear H OD,stardist,rt,CG+M+A,A1_full,0.9780209090995806
+M4 nuclear H OD,stardist,rt,CG+M+A,A1_full_s7,1.105568850252214
+M4 nuclear H OD,stardist,rt,CG+M+A,A1_full_s123,1.2299132632084835
+M4 nuclear H OD,stardist,rt,CG+M+C,A5_full,1.0712541931777104
+M4 nuclear H OD,stardist,rt,CG+M+C,A5_full_s7,1.0704271021262308
+M4 nuclear H OD,stardist,rt,CG+M+C,A5_full_s123,0.9878413885915347
+M4 nuclear H OD,stardist,real,CG,CG_full,1.0856397887583926
+M4 nuclear H OD,stardist,real,CG,CG_full_s7,1.0268350549936587
+M4 nuclear H OD,stardist,real,CG,CG_full_s123,1.2031916298161955
+M4 nuclear H OD,stardist,real,CG+M,CGM_full,1.1728593948766257
+M4 nuclear H OD,stardist,real,CG+M,CGM_full_s7,1.1273615400494226
+M4 nuclear H OD,stardist,real,CG+M,CGM_full_s123,1.1070492832260665
+M4 nuclear H OD,stardist,real,CG+M+A,A1_full,0.9761602090865884
+M4 nuclear H OD,stardist,real,CG+M+A,A1_full_s7,1.1040000334673403
+M4 nuclear H OD,stardist,real,CG+M+A,A1_full_s123,1.2274315274229566
+M4 nuclear H OD,stardist,real,CG+M+C,A5_full,1.0739149418926146
+M4 nuclear H OD,stardist,real,CG+M+C,A5_full_s7,1.070914762150996
+M4 nuclear H OD,stardist,real,CG+M+C,A5_full_s123,0.9895722828700437
+M6 density r,stardist,rt,CG,CG_full,-0.08526316417444452
+M6 density r,stardist,rt,CG,CG_full_s7,0.29134988016206426
+M6 density r,stardist,rt,CG,CG_full_s123,0.10399455016327554
+M6 density r,stardist,rt,CG+M,CGM_full,0.2940368188102617
+M6 density r,stardist,rt,CG+M,CGM_full_s7,0.49674404487679097
+M6 density r,stardist,rt,CG+M,CGM_full_s123,0.2970041833985502
+M6 density r,stardist,rt,CG+M+A,A1_full,0.5059120023193154
+M6 density r,stardist,rt,CG+M+A,A1_full_s7,0.5738326146276987
+M6 density r,stardist,rt,CG+M+A,A1_full_s123,0.4201992774747119
+M6 density r,stardist,rt,CG+M+C,A5_full,0.5342576996163534
+M6 density r,stardist,rt,CG+M+C,A5_full_s7,0.6595228996540662
+M6 density r,stardist,rt,CG+M+C,A5_full_s123,0.6187084284743657
+M6 density r,stardist,real,CG,CG_full,-0.09453792159894626
+M6 density r,stardist,real,CG,CG_full_s7,0.2938025037419757
+M6 density r,stardist,real,CG,CG_full_s123,0.10628641359743782
+M6 density r,stardist,real,CG+M,CGM_full,0.29418913497573645
+M6 density r,stardist,real,CG+M,CGM_full_s7,0.4915926220357073
+M6 density r,stardist,real,CG+M,CGM_full_s123,0.295656285981123
+M6 density r,stardist,real,CG+M+A,A1_full,0.5060032836992637
+M6 density r,stardist,real,CG+M+A,A1_full_s7,0.571807051363105
+M6 density r,stardist,real,CG+M+A,A1_full_s123,0.42591556948962345
+M6 density r,stardist,real,CG+M+C,A5_full,0.5315075843169005
+M6 density r,stardist,real,CG+M+C,A5_full_s7,0.6545673564342598
+M6 density r,stardist,real,CG+M+C,A5_full_s123,0.6142073661544063
+M6 density slope,stardist,rt,CG,CG_full,0.008138898507291933
+M6 density slope,stardist,rt,CG,CG_full_s7,0.2280880769235159
+M6 density slope,stardist,rt,CG,CG_full_s123,0.10116562505038337
+M6 density slope,stardist,rt,CG+M,CGM_full,0.20443204999753922
+M6 density slope,stardist,rt,CG+M,CGM_full_s7,0.3315267656961929
+M6 density slope,stardist,rt,CG+M,CGM_full_s123,0.24281473591258612
+M6 density slope,stardist,rt,CG+M+A,A1_full,0.36439049063718965
+M6 density slope,stardist,rt,CG+M+A,A1_full_s7,0.43337346140969313
+M6 density slope,stardist,rt,CG+M+A,A1_full_s123,0.26226434570746804
+M6 density slope,stardist,rt,CG+M+C,A5_full,0.4197124885594479
+M6 density slope,stardist,rt,CG+M+C,A5_full_s7,0.45229059917668235
+M6 density slope,stardist,rt,CG+M+C,A5_full_s123,0.44405605147722277
+M6 density slope,stardist,real,CG,CG_full,0.0054182395887720156
+M6 density slope,stardist,real,CG,CG_full_s7,0.23149502297421928
+M6 density slope,stardist,real,CG,CG_full_s123,0.10424348837707768
+M6 density slope,stardist,real,CG+M,CGM_full,0.20335966500517683
+M6 density slope,stardist,real,CG+M,CGM_full_s7,0.32897118075618687
+M6 density slope,stardist,real,CG+M,CGM_full_s123,0.24013391900469302
+M6 density slope,stardist,real,CG+M+A,A1_full,0.36105866619965477
+M6 density slope,stardist,real,CG+M+A,A1_full_s7,0.43537138593908314
+M6 density slope,stardist,real,CG+M+A,A1_full_s123,0.26357295392931795
+M6 density slope,stardist,real,CG+M+C,A5_full,0.41320549901860837
+M6 density slope,stardist,real,CG+M+C,A5_full_s7,0.4455799943318475
+M6 density slope,stardist,real,CG+M+C,A5_full_s123,0.4375097621242651
+M6 density disc,stardist,rt,CG,CG_full,0.3
+M6 density disc,stardist,rt,CG,CG_full_s7,0.40347977642887195
+M6 density disc,stardist,rt,CG,CG_full_s123,0.3423965740142211
+M6 density disc,stardist,rt,CG+M,CGM_full,0.41294746230321644
+M6 density disc,stardist,rt,CG+M,CGM_full_s7,0.4388977165725048
+M6 density disc,stardist,rt,CG+M,CGM_full_s123,0.43239261022328007
+M6 density disc,stardist,rt,CG+M+A,A1_full,0.4985783981131466
+M6 density disc,stardist,rt,CG+M+A,A1_full_s7,0.503322264549368
+M6 density disc,stardist,rt,CG+M+A,A1_full_s123,0.43007093345895575
+M6 density disc,stardist,rt,CG+M+C,A5_full,0.5544815009895934
+M6 density disc,stardist,rt,CG+M+C,A5_full_s7,0.5454545454545455
+M6 density disc,stardist,rt,CG+M+C,A5_full_s123,0.5607638888888888
+M6 density disc,stardist,real,CG,CG_full,0.30393198724760895
+M6 density disc,stardist,real,CG,CG_full_s7,0.40820208283386916
+M6 density disc,stardist,real,CG,CG_full_s123,0.34568971746513477
+M6 density disc,stardist,real,CG+M,CGM_full,0.4146755148741419
+M6 density disc,stardist,real,CG+M,CGM_full_s7,0.44178164692555383
+M6 density disc,stardist,real,CG+M,CGM_full_s123,0.4390956621476184
+M6 density disc,stardist,real,CG+M+A,A1_full,0.5032885303274621
+M6 density disc,stardist,real,CG+M+A,A1_full_s7,0.5144902580800017
+M6 density disc,stardist,real,CG+M+A,A1_full_s123,0.42474077209105476
+M6 density disc,stardist,real,CG+M+C,A5_full,0.5535120853716432
+M6 density disc,stardist,real,CG+M+C,A5_full_s7,0.5398735879505111
+M6 density disc,stardist,real,CG+M+C,A5_full_s123,0.5462908671441765
+M1 nuclear area,cellvit_sam,rt,CG,CG_full,1.0315609456829977
+M1 nuclear area,cellvit_sam,rt,CG,CG_full_s7,1.0105580693815988
+M1 nuclear area,cellvit_sam,rt,CG,CG_full_s123,0.8027668963135316
+M1 nuclear area,cellvit_sam,rt,CG+M,CGM_full,0.8247229326513215
+M1 nuclear area,cellvit_sam,rt,CG+M,CGM_full_s7,0.8449612403100776
+M1 nuclear area,cellvit_sam,rt,CG+M,CGM_full_s123,1.0439966663082052
+M1 nuclear area,cellvit_sam,rt,CG+M+A,A1_full,0.8832252833226992
+M1 nuclear area,cellvit_sam,rt,CG+M+A,A1_full_s7,0.7797956867196367
+M1 nuclear area,cellvit_sam,rt,CG+M+A,A1_full_s123,0.7564466040700011
+M1 nuclear area,cellvit_sam,rt,CG+M+C,A5_full,0.9514842386074892
+M1 nuclear area,cellvit_sam,rt,CG+M+C,A5_full_s7,0.8605433755008329
+M1 nuclear area,cellvit_sam,rt,CG+M+C,A5_full_s123,1.0538764783180026
+M1 nuclear area,cellvit_sam,real,CG,CG_full,1.049140878990099
+M1 nuclear area,cellvit_sam,real,CG,CG_full_s7,1.0186625194401244
+M1 nuclear area,cellvit_sam,real,CG,CG_full_s123,0.8036442427357253
+M1 nuclear area,cellvit_sam,real,CG+M,CGM_full,0.8351457315354345
+M1 nuclear area,cellvit_sam,real,CG+M,CGM_full_s7,0.8606431852986217
+M1 nuclear area,cellvit_sam,real,CG+M,CGM_full_s123,1.0536436242776
+M1 nuclear area,cellvit_sam,real,CG+M+A,A1_full,0.8902234837597011
+M1 nuclear area,cellvit_sam,real,CG+M+A,A1_full_s7,0.7831632653061225
+M1 nuclear area,cellvit_sam,real,CG+M+A,A1_full_s123,0.7624173546922799
+M1 nuclear area,cellvit_sam,real,CG+M+C,A5_full,0.9655318103762873
+M1 nuclear area,cellvit_sam,real,CG+M+C,A5_full_s7,0.8631817043021173
+M1 nuclear area,cellvit_sam,real,CG+M+C,A5_full_s123,1.0603318250377074
+M2 solidity,cellvit_sam,rt,CG,CG_full,0.9961726081656219
+M2 solidity,cellvit_sam,rt,CG,CG_full_s7,0.996587723195032
+M2 solidity,cellvit_sam,rt,CG,CG_full_s123,0.9934682076464905
+M2 solidity,cellvit_sam,rt,CG+M,CGM_full,0.9958023590933587
+M2 solidity,cellvit_sam,rt,CG+M,CGM_full_s7,0.9940480155350125
+M2 solidity,cellvit_sam,rt,CG+M,CGM_full_s123,0.9961292756639983
+M2 solidity,cellvit_sam,rt,CG+M+A,A1_full,0.9943787318682887
+M2 solidity,cellvit_sam,rt,CG+M+A,A1_full_s7,0.9934774284488755
+M2 solidity,cellvit_sam,rt,CG+M+A,A1_full_s123,0.9920753095199017
+M2 solidity,cellvit_sam,rt,CG+M+C,A5_full,0.996170535866075
+M2 solidity,cellvit_sam,rt,CG+M+C,A5_full_s7,0.9963946308834275
+M2 solidity,cellvit_sam,rt,CG+M+C,A5_full_s123,0.9984052832660069
+M2 solidity,cellvit_sam,real,CG,CG_full,0.9965691358919371
+M2 solidity,cellvit_sam,real,CG,CG_full_s7,0.996690410175374
+M2 solidity,cellvit_sam,real,CG,CG_full_s123,0.9936695036996104
+M2 solidity,cellvit_sam,real,CG+M,CGM_full,0.9955004202780661
+M2 solidity,cellvit_sam,real,CG+M,CGM_full_s7,0.9942033353361235
+M2 solidity,cellvit_sam,real,CG+M,CGM_full_s123,0.9963647945433254
+M2 solidity,cellvit_sam,real,CG+M+A,A1_full,0.9945252502116968
+M2 solidity,cellvit_sam,real,CG+M+A,A1_full_s7,0.9935071059103471
+M2 solidity,cellvit_sam,real,CG+M+A,A1_full_s123,0.992248240496207
+M2 solidity,cellvit_sam,real,CG+M+C,A5_full,0.9961496853191644
+M2 solidity,cellvit_sam,real,CG+M+C,A5_full_s7,0.9965210273883203
+M2 solidity,cellvit_sam,real,CG+M+C,A5_full_s123,0.9985721594435362
+M2 eccentricity,cellvit_sam,rt,CG,CG_full,0.991625480022418
+M2 eccentricity,cellvit_sam,rt,CG,CG_full_s7,0.9845958883965439
+M2 eccentricity,cellvit_sam,rt,CG,CG_full_s123,1.0071499286846803
+M2 eccentricity,cellvit_sam,rt,CG+M,CGM_full,0.9769354694511628
+M2 eccentricity,cellvit_sam,rt,CG+M,CGM_full_s7,0.9713089377354842
+M2 eccentricity,cellvit_sam,rt,CG+M,CGM_full_s123,0.9878601186403911
+M2 eccentricity,cellvit_sam,rt,CG+M+A,A1_full,0.9993899099480203
+M2 eccentricity,cellvit_sam,rt,CG+M+A,A1_full_s7,0.984260941231071
+M2 eccentricity,cellvit_sam,rt,CG+M+A,A1_full_s123,1.0248823102285638
+M2 eccentricity,cellvit_sam,rt,CG+M+C,A5_full,0.9674291390486084
+M2 eccentricity,cellvit_sam,rt,CG+M+C,A5_full_s7,0.9434694576810039
+M2 eccentricity,cellvit_sam,rt,CG+M+C,A5_full_s123,0.9554026606809921
+M2 eccentricity,cellvit_sam,real,CG,CG_full,0.988457411632533
+M2 eccentricity,cellvit_sam,real,CG,CG_full_s7,0.9826733931116478
+M2 eccentricity,cellvit_sam,real,CG,CG_full_s123,1.0076212146809882
+M2 eccentricity,cellvit_sam,real,CG+M,CGM_full,0.9755649645000917
+M2 eccentricity,cellvit_sam,real,CG+M,CGM_full_s7,0.968384652097995
+M2 eccentricity,cellvit_sam,real,CG+M,CGM_full_s123,0.983754207738925
+M2 eccentricity,cellvit_sam,real,CG+M+A,A1_full,0.9979573812028733
+M2 eccentricity,cellvit_sam,real,CG+M+A,A1_full_s7,0.9835326324152297
+M2 eccentricity,cellvit_sam,real,CG+M+A,A1_full_s123,1.0203906723885519
+M2 eccentricity,cellvit_sam,real,CG+M+C,A5_full,0.9668539022768279
+M2 eccentricity,cellvit_sam,real,CG+M+C,A5_full_s7,0.9418813934643315
+M2 eccentricity,cellvit_sam,real,CG+M+C,A5_full_s123,0.9504084105202021
+M3 nearest-neighbour distance,cellvit_sam,rt,CG,CG_full,1.0040936749623848
+M3 nearest-neighbour distance,cellvit_sam,rt,CG,CG_full_s7,0.9443963712609437
+M3 nearest-neighbour distance,cellvit_sam,rt,CG,CG_full_s123,1.0077804504178487
+M3 nearest-neighbour distance,cellvit_sam,rt,CG+M,CGM_full,1.0736645468189236
+M3 nearest-neighbour distance,cellvit_sam,rt,CG+M,CGM_full_s7,1.0642568028714727
+M3 nearest-neighbour distance,cellvit_sam,rt,CG+M,CGM_full_s123,1.0897602631610863
+M3 nearest-neighbour distance,cellvit_sam,rt,CG+M+A,A1_full,1.11170957532597
+M3 nearest-neighbour distance,cellvit_sam,rt,CG+M+A,A1_full_s7,1.232978504811847
+M3 nearest-neighbour distance,cellvit_sam,rt,CG+M+A,A1_full_s123,0.9563078737185202
+M3 nearest-neighbour distance,cellvit_sam,rt,CG+M+C,A5_full,1.126508527220604
+M3 nearest-neighbour distance,cellvit_sam,rt,CG+M+C,A5_full_s7,1.05599285769358
+M3 nearest-neighbour distance,cellvit_sam,rt,CG+M+C,A5_full_s123,1.111744925862286
+M3 nearest-neighbour distance,cellvit_sam,real,CG,CG_full,1.0257340410544211
+M3 nearest-neighbour distance,cellvit_sam,real,CG,CG_full_s7,0.9637336767699043
+M3 nearest-neighbour distance,cellvit_sam,real,CG,CG_full_s123,1.0348276879312364
+M3 nearest-neighbour distance,cellvit_sam,real,CG+M,CGM_full,1.0903701901847878
+M3 nearest-neighbour distance,cellvit_sam,real,CG+M,CGM_full_s7,1.0799993442004512
+M3 nearest-neighbour distance,cellvit_sam,real,CG+M,CGM_full_s123,1.1024121979069572
+M3 nearest-neighbour distance,cellvit_sam,real,CG+M+A,A1_full,1.1237518058645644
+M3 nearest-neighbour distance,cellvit_sam,real,CG+M+A,A1_full_s7,1.2482702185016579
+M3 nearest-neighbour distance,cellvit_sam,real,CG+M+A,A1_full_s123,0.9677366346947395
+M3 nearest-neighbour distance,cellvit_sam,real,CG+M+C,A5_full,1.143525093518424
+M3 nearest-neighbour distance,cellvit_sam,real,CG+M+C,A5_full_s7,1.0734947138614443
+M3 nearest-neighbour distance,cellvit_sam,real,CG+M+C,A5_full_s123,1.1239075213403233
+M3 cell territory,cellvit_sam,rt,CG,CG_full,0.9208217913204062
+M3 cell territory,cellvit_sam,rt,CG,CG_full_s7,0.8515337423312883
+M3 cell territory,cellvit_sam,rt,CG,CG_full_s123,1.028774526678141
+M3 cell territory,cellvit_sam,rt,CG+M,CGM_full,1.1136363636363635
+M3 cell territory,cellvit_sam,rt,CG+M,CGM_full_s7,1.0582522694147147
+M3 cell territory,cellvit_sam,rt,CG+M,CGM_full_s123,1.1944506472642464
+M3 cell territory,cellvit_sam,rt,CG+M+A,A1_full,1.1632114704469112
+M3 cell territory,cellvit_sam,rt,CG+M+A,A1_full_s7,1.6568947161386207
+M3 cell territory,cellvit_sam,rt,CG+M+A,A1_full_s123,0.8065626283803884
+M3 cell territory,cellvit_sam,rt,CG+M+C,A5_full,1.257918552036199
+M3 cell territory,cellvit_sam,rt,CG+M+C,A5_full_s7,1.095062965750095
+M3 cell territory,cellvit_sam,rt,CG+M+C,A5_full_s123,1.242540168324407
+M3 cell territory,cellvit_sam,real,CG,CG_full,0.9421024119377994
+M3 cell territory,cellvit_sam,real,CG,CG_full_s7,0.8804012345679012
+M3 cell territory,cellvit_sam,real,CG,CG_full_s123,1.0662666634730282
+M3 cell territory,cellvit_sam,real,CG+M,CGM_full,1.1355932203389831
+M3 cell territory,cellvit_sam,real,CG+M,CGM_full_s7,1.0827842294327517
+M3 cell territory,cellvit_sam,real,CG+M,CGM_full_s123,1.2143931710615279
+M3 cell territory,cellvit_sam,real,CG+M+A,A1_full,1.1922354157752104
+M3 cell territory,cellvit_sam,real,CG+M+A,A1_full_s7,1.7199823288690477
+M3 cell territory,cellvit_sam,real,CG+M+A,A1_full_s123,0.8257183864384909
+M3 cell territory,cellvit_sam,real,CG+M+C,A5_full,1.315990818668707
+M3 cell territory,cellvit_sam,real,CG+M+C,A5_full_s7,1.1229263618943335
+M3 cell territory,cellvit_sam,real,CG+M+C,A5_full_s123,1.275294117647059
+M4 nuclear H OD,cellvit_sam,rt,CG,CG_full,1.0854965599265625
+M4 nuclear H OD,cellvit_sam,rt,CG,CG_full_s7,1.009697320455418
+M4 nuclear H OD,cellvit_sam,rt,CG,CG_full_s123,1.1641247540369508
+M4 nuclear H OD,cellvit_sam,rt,CG+M,CGM_full,1.1756561600520619
+M4 nuclear H OD,cellvit_sam,rt,CG+M,CGM_full_s7,1.1413900662473082
+M4 nuclear H OD,cellvit_sam,rt,CG+M,CGM_full_s123,1.089210201463874
+M4 nuclear H OD,cellvit_sam,rt,CG+M+A,A1_full,0.9676340163067199
+M4 nuclear H OD,cellvit_sam,rt,CG+M+A,A1_full_s7,1.1298687276939419
+M4 nuclear H OD,cellvit_sam,rt,CG+M+A,A1_full_s123,1.188468411217877
+M4 nuclear H OD,cellvit_sam,rt,CG+M+C,A5_full,1.073927183311695
+M4 nuclear H OD,cellvit_sam,rt,CG+M+C,A5_full_s7,1.0671321943088026
+M4 nuclear H OD,cellvit_sam,rt,CG+M+C,A5_full_s123,0.9837414330959584
+M4 nuclear H OD,cellvit_sam,real,CG,CG_full,1.099322414306903
+M4 nuclear H OD,cellvit_sam,real,CG,CG_full_s7,1.0206226386325226
+M4 nuclear H OD,cellvit_sam,real,CG,CG_full_s123,1.1809334405691936
+M4 nuclear H OD,cellvit_sam,real,CG+M,CGM_full,1.1872210555873601
+M4 nuclear H OD,cellvit_sam,real,CG+M,CGM_full_s7,1.157527289541336
+M4 nuclear H OD,cellvit_sam,real,CG+M,CGM_full_s123,1.103695455711092
+M4 nuclear H OD,cellvit_sam,real,CG+M+A,A1_full,0.9718974715440704
+M4 nuclear H OD,cellvit_sam,real,CG+M+A,A1_full_s7,1.1422221595198556
+M4 nuclear H OD,cellvit_sam,real,CG+M+A,A1_full_s123,1.201071253872466
+M4 nuclear H OD,cellvit_sam,real,CG+M+C,A5_full,1.0865636278772313
+M4 nuclear H OD,cellvit_sam,real,CG+M+C,A5_full_s7,1.0790012229887016
+M4 nuclear H OD,cellvit_sam,real,CG+M+C,A5_full_s123,0.9917661098403772
+M6 density r,cellvit_sam,rt,CG,CG_full,-0.19783050661546364
+M6 density r,cellvit_sam,rt,CG,CG_full_s7,0.30619535372400725
+M6 density r,cellvit_sam,rt,CG,CG_full_s123,0.15363165420801092
+M6 density r,cellvit_sam,rt,CG+M,CGM_full,0.4652322340108948
+M6 density r,cellvit_sam,rt,CG+M,CGM_full_s7,0.4834097999104866
+M6 density r,cellvit_sam,rt,CG+M,CGM_full_s123,0.4407128035487006
+M6 density r,cellvit_sam,rt,CG+M+A,A1_full,0.5844968229617663
+M6 density r,cellvit_sam,rt,CG+M+A,A1_full_s7,0.594049254966735
+M6 density r,cellvit_sam,rt,CG+M+A,A1_full_s123,0.47001418431483843
+M6 density r,cellvit_sam,rt,CG+M+C,A5_full,0.6086847698205125
+M6 density r,cellvit_sam,rt,CG+M+C,A5_full_s7,0.6081971595812182
+M6 density r,cellvit_sam,rt,CG+M+C,A5_full_s123,0.6370719454273294
+M6 density r,cellvit_sam,real,CG,CG_full,-0.19813301647722947
+M6 density r,cellvit_sam,real,CG,CG_full_s7,0.31620136421788986
+M6 density r,cellvit_sam,real,CG,CG_full_s123,0.15533331316892726
+M6 density r,cellvit_sam,real,CG+M,CGM_full,0.4574199587993708
+M6 density r,cellvit_sam,real,CG+M,CGM_full_s7,0.4690244146185696
+M6 density r,cellvit_sam,real,CG+M,CGM_full_s123,0.433084418221346
+M6 density r,cellvit_sam,real,CG+M+A,A1_full,0.5746583744846149
+M6 density r,cellvit_sam,real,CG+M+A,A1_full_s7,0.5915235144413812
+M6 density r,cellvit_sam,real,CG+M+A,A1_full_s123,0.472342257786355
+M6 density r,cellvit_sam,real,CG+M+C,A5_full,0.5961487275755567
+M6 density r,cellvit_sam,real,CG+M+C,A5_full_s7,0.5973147020854772
+M6 density r,cellvit_sam,real,CG+M+C,A5_full_s123,0.6253400862022876
+M6 density slope,cellvit_sam,rt,CG,CG_full,-0.062199316477649536
+M6 density slope,cellvit_sam,rt,CG,CG_full_s7,0.23328820636099926
+M6 density slope,cellvit_sam,rt,CG,CG_full_s123,0.12319623853759515
+M6 density slope,cellvit_sam,rt,CG+M,CGM_full,0.2744309919405773
+M6 density slope,cellvit_sam,rt,CG+M,CGM_full_s7,0.35629053169827796
+M6 density slope,cellvit_sam,rt,CG+M,CGM_full_s123,0.32663123628983787
+M6 density slope,cellvit_sam,rt,CG+M+A,A1_full,0.4123717575287776
+M6 density slope,cellvit_sam,rt,CG+M+A,A1_full_s7,0.5300475055168344
+M6 density slope,cellvit_sam,rt,CG+M+A,A1_full_s123,0.2926598717146388
+M6 density slope,cellvit_sam,rt,CG+M+C,A5_full,0.47936719814613427
+M6 density slope,cellvit_sam,rt,CG+M+C,A5_full_s7,0.41394168717337404
+M6 density slope,cellvit_sam,rt,CG+M+C,A5_full_s123,0.39384404891182256
+M6 density slope,cellvit_sam,real,CG,CG_full,-0.06395457711834077
+M6 density slope,cellvit_sam,real,CG,CG_full_s7,0.25004106927431957
+M6 density slope,cellvit_sam,real,CG,CG_full_s123,0.128736760663985
+M6 density slope,cellvit_sam,real,CG+M,CGM_full,0.27532475027811437
+M6 density slope,cellvit_sam,real,CG+M,CGM_full_s7,0.35690110755403937
+M6 density slope,cellvit_sam,real,CG+M,CGM_full_s123,0.3266640603168665
+M6 density slope,cellvit_sam,real,CG+M+A,A1_full,0.4174436862102307
+M6 density slope,cellvit_sam,real,CG+M+A,A1_full_s7,0.5448041159350432
+M6 density slope,cellvit_sam,real,CG+M+A,A1_full_s123,0.2998013018311447
+M6 density slope,cellvit_sam,real,CG+M+C,A5_full,0.4838507809758299
+M6 density slope,cellvit_sam,real,CG+M+C,A5_full_s7,0.4163562356150658
+M6 density slope,cellvit_sam,real,CG+M+C,A5_full_s123,0.39710177664344765
+M6 density disc,cellvit_sam,rt,CG,CG_full,0.27856568004336274
+M6 density disc,cellvit_sam,rt,CG,CG_full_s7,0.3963219393410747
+M6 density disc,cellvit_sam,rt,CG,CG_full_s123,0.3602740128774292
+M6 density disc,cellvit_sam,rt,CG+M,CGM_full,0.4455575571962757
+M6 density disc,cellvit_sam,rt,CG+M,CGM_full_s7,0.44889216831662876
+M6 density disc,cellvit_sam,rt,CG+M,CGM_full_s123,0.46604518321625676
+M6 density disc,cellvit_sam,rt,CG+M+A,A1_full,0.5094642857142857
+M6 density disc,cellvit_sam,rt,CG+M+A,A1_full_s7,0.5633316809066962
+M6 density disc,cellvit_sam,rt,CG+M+A,A1_full_s123,0.42127744801718797
+M6 density disc,cellvit_sam,rt,CG+M+C,A5_full,0.6085380782997275
+M6 density disc,cellvit_sam,rt,CG+M+C,A5_full_s7,0.5107693955236232
+M6 density disc,cellvit_sam,rt,CG+M+C,A5_full_s123,0.5517241379310345
+M6 density disc,cellvit_sam,real,CG,CG_full,0.28918099089989885
+M6 density disc,cellvit_sam,real,CG,CG_full_s7,0.42523470198864477
+M6 density disc,cellvit_sam,real,CG,CG_full_s123,0.37206958245487304
+M6 density disc,cellvit_sam,real,CG+M,CGM_full,0.45426788795964423
+M6 density disc,cellvit_sam,real,CG+M,CGM_full_s7,0.45874271419637275
+M6 density disc,cellvit_sam,real,CG+M,CGM_full_s123,0.48104495760527116
+M6 density disc,cellvit_sam,real,CG+M+A,A1_full,0.5476190476190477
+M6 density disc,cellvit_sam,real,CG+M+A,A1_full_s7,0.5874447830786335
+M6 density disc,cellvit_sam,real,CG+M+A,A1_full_s123,0.451608494812133
+M6 density disc,cellvit_sam,real,CG+M+C,A5_full,0.625
+M6 density disc,cellvit_sam,real,CG+M+C,A5_full_s7,0.534684065934066
+M6 density disc,cellvit_sam,real,CG+M+C,A5_full_s123,0.560809737104343
+M1 nuclear area,hovernet,rt,CG,CG_full,0.9757575295695646
+M1 nuclear area,hovernet,rt,CG,CG_full_s7,0.929181427125506
+M1 nuclear area,hovernet,rt,CG,CG_full_s123,0.7962671242781534
+M1 nuclear area,hovernet,rt,CG+M,CGM_full,0.7812003257699311
+M1 nuclear area,hovernet,rt,CG+M,CGM_full_s7,0.7843666951404707
+M1 nuclear area,hovernet,rt,CG+M,CGM_full_s123,0.9111188131401172
+M1 nuclear area,hovernet,rt,CG+M+A,A1_full,0.7907592095531635
+M1 nuclear area,hovernet,rt,CG+M+A,A1_full_s7,0.7492796659005702
+M1 nuclear area,hovernet,rt,CG+M+A,A1_full_s123,0.7843570001222147
+M1 nuclear area,hovernet,rt,CG+M+C,A5_full,0.8287859658449066
+M1 nuclear area,hovernet,rt,CG+M+C,A5_full_s7,0.8084788963784397
+M1 nuclear area,hovernet,rt,CG+M+C,A5_full_s123,0.9366094322052276
+M1 nuclear area,hovernet,real,CG,CG_full,0.9555733618233618
+M1 nuclear area,hovernet,real,CG,CG_full_s7,0.9009865861628956
+M1 nuclear area,hovernet,real,CG,CG_full_s123,0.7752302705498497
+M1 nuclear area,hovernet,real,CG+M,CGM_full,0.7673820236475881
+M1 nuclear area,hovernet,real,CG+M,CGM_full_s7,0.765804347303518
+M1 nuclear area,hovernet,real,CG+M,CGM_full_s123,0.8886472379295346
+M1 nuclear area,hovernet,real,CG+M+A,A1_full,0.768215999857965
+M1 nuclear area,hovernet,real,CG+M+A,A1_full_s7,0.7380651156171238
+M1 nuclear area,hovernet,real,CG+M+A,A1_full_s123,0.7587569851437916
+M1 nuclear area,hovernet,real,CG+M+C,A5_full,0.8118811881188119
+M1 nuclear area,hovernet,real,CG+M+C,A5_full_s7,0.8011779837143538
+M1 nuclear area,hovernet,real,CG+M+C,A5_full_s123,0.9245748937234308
+M3 nearest-neighbour distance,hovernet,rt,CG,CG_full,0.9712715061269748
+M3 nearest-neighbour distance,hovernet,rt,CG,CG_full_s7,0.9019536471391655
+M3 nearest-neighbour distance,hovernet,rt,CG,CG_full_s123,0.9394904664391048
+M3 nearest-neighbour distance,hovernet,rt,CG+M,CGM_full,1.0336763701265488
+M3 nearest-neighbour distance,hovernet,rt,CG+M,CGM_full_s7,0.9855941701083147
+M3 nearest-neighbour distance,hovernet,rt,CG+M,CGM_full_s123,1.0397454124156738
+M3 nearest-neighbour distance,hovernet,rt,CG+M+A,A1_full,1.0606374067926683
+M3 nearest-neighbour distance,hovernet,rt,CG+M+A,A1_full_s7,1.1432382434289707
+M3 nearest-neighbour distance,hovernet,rt,CG+M+A,A1_full_s123,0.9201105068828747
+M3 nearest-neighbour distance,hovernet,rt,CG+M+C,A5_full,1.0692708919812277
+M3 nearest-neighbour distance,hovernet,rt,CG+M+C,A5_full_s7,0.9884118530630668
+M3 nearest-neighbour distance,hovernet,rt,CG+M+C,A5_full_s123,1.022273481262859
+M3 nearest-neighbour distance,hovernet,real,CG,CG_full,1.0039520206051233
+M3 nearest-neighbour distance,hovernet,real,CG,CG_full_s7,0.9343736466342221
+M3 nearest-neighbour distance,hovernet,real,CG,CG_full_s123,0.9719059333438591
+M3 nearest-neighbour distance,hovernet,real,CG+M,CGM_full,1.0755711884444077
+M3 nearest-neighbour distance,hovernet,real,CG+M,CGM_full_s7,1.0172307973381538
+M3 nearest-neighbour distance,hovernet,real,CG+M,CGM_full_s123,1.0844560728867207
+M3 nearest-neighbour distance,hovernet,real,CG+M+A,A1_full,1.0967651931273041
+M3 nearest-neighbour distance,hovernet,real,CG+M+A,A1_full_s7,1.1803878069402363
+M3 nearest-neighbour distance,hovernet,real,CG+M+A,A1_full_s123,0.9560969178554772
+M3 nearest-neighbour distance,hovernet,real,CG+M+C,A5_full,1.1154855414572618
+M3 nearest-neighbour distance,hovernet,real,CG+M+C,A5_full_s7,1.0265854991152359
+M3 nearest-neighbour distance,hovernet,real,CG+M+C,A5_full_s123,1.0552563190020035
+M3 cell territory,hovernet,rt,CG,CG_full,0.8558484349258649
+M3 cell territory,hovernet,rt,CG,CG_full_s7,0.7912635825449563
+M3 cell territory,hovernet,rt,CG,CG_full_s123,0.8937099447344558
+M3 cell territory,hovernet,rt,CG+M,CGM_full,1.075176087188395
+M3 cell territory,hovernet,rt,CG+M,CGM_full_s7,0.9392925565716148
+M3 cell territory,hovernet,rt,CG+M,CGM_full_s123,1.11781206171108
+M3 cell territory,hovernet,rt,CG+M+A,A1_full,1.100641667117434
+M3 cell territory,hovernet,rt,CG+M+A,A1_full_s7,1.4261458633011035
+M3 cell territory,hovernet,rt,CG+M+A,A1_full_s123,0.7543348631728337
+M3 cell territory,hovernet,rt,CG+M+C,A5_full,1.176267209011264
+M3 cell territory,hovernet,rt,CG+M+C,A5_full_s7,0.9675920702297719
+M3 cell territory,hovernet,rt,CG+M+C,A5_full_s123,1.0809446057087566
+M3 cell territory,hovernet,real,CG,CG_full,0.9531772575250836
+M3 cell territory,hovernet,real,CG,CG_full_s7,0.8720622692416927
+M3 cell territory,hovernet,real,CG,CG_full_s123,1.002513664806798
+M3 cell territory,hovernet,real,CG+M,CGM_full,1.1839264923377073
+M3 cell territory,hovernet,real,CG+M,CGM_full_s7,1.0341438950336153
+M3 cell territory,hovernet,real,CG+M,CGM_full_s123,1.256277695716396
+M3 cell territory,hovernet,real,CG+M+A,A1_full,1.2025333781577179
+M3 cell territory,hovernet,real,CG+M+A,A1_full_s7,1.5951517272257023
+M3 cell territory,hovernet,real,CG+M+A,A1_full_s123,0.8352000471501163
+M3 cell territory,hovernet,real,CG+M+C,A5_full,1.2919193071157489
+M3 cell territory,hovernet,real,CG+M+C,A5_full_s7,1.0624118030949639
+M3 cell territory,hovernet,real,CG+M+C,A5_full_s123,1.18443999579069
+M4 nuclear H OD,hovernet,rt,CG,CG_full,1.085991081235313
+M4 nuclear H OD,hovernet,rt,CG,CG_full_s7,1.01101307514758
+M4 nuclear H OD,hovernet,rt,CG,CG_full_s123,1.1319442801507325
+M4 nuclear H OD,hovernet,rt,CG+M,CGM_full,1.1717406989241974
+M4 nuclear H OD,hovernet,rt,CG+M,CGM_full_s7,1.1279537341274195
+M4 nuclear H OD,hovernet,rt,CG+M,CGM_full_s123,1.1141863656117832
+M4 nuclear H OD,hovernet,rt,CG+M+A,A1_full,0.9748348608604273
+M4 nuclear H OD,hovernet,rt,CG+M+A,A1_full_s7,1.1099820900529371
+M4 nuclear H OD,hovernet,rt,CG+M+A,A1_full_s123,1.1859511742534512
+M4 nuclear H OD,hovernet,rt,CG+M+C,A5_full,1.0998475759281559
+M4 nuclear H OD,hovernet,rt,CG+M+C,A5_full_s7,1.0449432542070582
+M4 nuclear H OD,hovernet,rt,CG+M+C,A5_full_s123,0.9735320855408409
+M4 nuclear H OD,hovernet,real,CG,CG_full,1.1175911933856169
+M4 nuclear H OD,hovernet,real,CG,CG_full_s7,1.0392423656341356
+M4 nuclear H OD,hovernet,real,CG,CG_full_s123,1.1696921155014635
+M4 nuclear H OD,hovernet,real,CG+M,CGM_full,1.2090655744684666
+M4 nuclear H OD,hovernet,real,CG+M,CGM_full_s7,1.159995427597969
+M4 nuclear H OD,hovernet,real,CG+M,CGM_full_s123,1.14426741662505
+M4 nuclear H OD,hovernet,real,CG+M+A,A1_full,1.0017216459308858
+M4 nuclear H OD,hovernet,real,CG+M+A,A1_full_s7,1.1468257119206888
+M4 nuclear H OD,hovernet,real,CG+M+A,A1_full_s123,1.2220012402829323
+M4 nuclear H OD,hovernet,real,CG+M+C,A5_full,1.127065629295648
+M4 nuclear H OD,hovernet,real,CG+M+C,A5_full_s7,1.0776588559820142
+M4 nuclear H OD,hovernet,real,CG+M+C,A5_full_s123,1.0034944138053614
+M6 density r,hovernet,rt,CG,CG_full,-0.18832115677935463
+M6 density r,hovernet,rt,CG,CG_full_s7,0.22691962760919243
+M6 density r,hovernet,rt,CG,CG_full_s123,0.18819301856260748
+M6 density r,hovernet,rt,CG+M,CGM_full,0.386663343976432
+M6 density r,hovernet,rt,CG+M,CGM_full_s7,0.4180632561628136
+M6 density r,hovernet,rt,CG+M,CGM_full_s123,0.32502252302027146
+M6 density r,hovernet,rt,CG+M+A,A1_full,0.5473622006553304
+M6 density r,hovernet,rt,CG+M+A,A1_full_s7,0.5671683949335561
+M6 density r,hovernet,rt,CG+M+A,A1_full_s123,0.4723630415227433
+M6 density r,hovernet,rt,CG+M+C,A5_full,0.5031236736574405
+M6 density r,hovernet,rt,CG+M+C,A5_full_s7,0.6224268571202787
+M6 density r,hovernet,rt,CG+M+C,A5_full_s123,0.6370897543424318
+M6 density r,hovernet,real,CG,CG_full,-0.169359998233905
+M6 density r,hovernet,real,CG,CG_full_s7,0.2544874097860597
+M6 density r,hovernet,real,CG,CG_full_s123,0.20629529478042644
+M6 density r,hovernet,real,CG+M,CGM_full,0.3780956690154962
+M6 density r,hovernet,real,CG+M,CGM_full_s7,0.4079854278038535
+M6 density r,hovernet,real,CG+M,CGM_full_s123,0.31243749841357543
+M6 density r,hovernet,real,CG+M+A,A1_full,0.5345037767751499
+M6 density r,hovernet,real,CG+M+A,A1_full_s7,0.5642289352591318
+M6 density r,hovernet,real,CG+M+A,A1_full_s123,0.4821758156908404
+M6 density r,hovernet,real,CG+M+C,A5_full,0.480657700448173
+M6 density r,hovernet,real,CG+M+C,A5_full_s7,0.6131116657547965
+M6 density r,hovernet,real,CG+M+C,A5_full_s123,0.6194824824981661
+M6 density slope,hovernet,rt,CG,CG_full,-0.034256907279447066
+M6 density slope,hovernet,rt,CG,CG_full_s7,0.19094088409827234
+M6 density slope,hovernet,rt,CG,CG_full_s123,0.12025101934469243
+M6 density slope,hovernet,rt,CG+M,CGM_full,0.22259021198064016
+M6 density slope,hovernet,rt,CG+M,CGM_full_s7,0.3322409215699188
+M6 density slope,hovernet,rt,CG+M,CGM_full_s123,0.25925772335682234
+M6 density slope,hovernet,rt,CG+M+A,A1_full,0.38357998661591003
+M6 density slope,hovernet,rt,CG+M+A,A1_full_s7,0.4719184819152047
+M6 density slope,hovernet,rt,CG+M+A,A1_full_s123,0.2740037604918211
+M6 density slope,hovernet,rt,CG+M+C,A5_full,0.35834676746461697
+M6 density slope,hovernet,rt,CG+M+C,A5_full_s7,0.406275997859785
+M6 density slope,hovernet,rt,CG+M+C,A5_full_s123,0.38613805376698207
+M6 density slope,hovernet,real,CG,CG_full,-0.021974061216114164
+M6 density slope,hovernet,real,CG,CG_full_s7,0.2111254397200272
+M6 density slope,hovernet,real,CG,CG_full_s123,0.12924132706238609
+M6 density slope,hovernet,real,CG+M,CGM_full,0.22324565542661112
+M6 density slope,hovernet,real,CG+M,CGM_full_s7,0.33768374869862905
+M6 density slope,hovernet,real,CG+M,CGM_full_s123,0.25573590509826033
+M6 density slope,hovernet,real,CG+M+A,A1_full,0.39752656115168883
+M6 density slope,hovernet,real,CG+M+A,A1_full_s7,0.4992445032732095
+M6 density slope,hovernet,real,CG+M+A,A1_full_s123,0.2921314189423321
+M6 density slope,hovernet,real,CG+M+C,A5_full,0.3647289467725344
+M6 density slope,hovernet,real,CG+M+C,A5_full_s7,0.4159274669051107
+M6 density slope,hovernet,real,CG+M+C,A5_full_s123,0.39437243172161934
+M6 density disc,hovernet,rt,CG,CG_full,0.2831907568593649
+M6 density disc,hovernet,rt,CG,CG_full_s7,0.3891155992771448
+M6 density disc,hovernet,rt,CG,CG_full_s123,0.3611435327435575
+M6 density disc,hovernet,rt,CG+M,CGM_full,0.4312823256643482
+M6 density disc,hovernet,rt,CG+M,CGM_full_s7,0.42063907805133577
+M6 density disc,hovernet,rt,CG+M,CGM_full_s123,0.4402898550724637
+M6 density disc,hovernet,rt,CG+M+A,A1_full,0.519660195849752
+M6 density disc,hovernet,rt,CG+M+A,A1_full_s7,0.5621683099537271
+M6 density disc,hovernet,rt,CG+M+A,A1_full_s123,0.43411770017783624
+M6 density disc,hovernet,rt,CG+M+C,A5_full,0.5817267591480253
+M6 density disc,hovernet,rt,CG+M+C,A5_full_s7,0.5316572085206352
+M6 density disc,hovernet,rt,CG+M+C,A5_full_s123,0.5423584641782134
+M6 density disc,hovernet,real,CG,CG_full,0.3061991584852735
+M6 density disc,hovernet,real,CG,CG_full_s7,0.4310358054949129
+M6 density disc,hovernet,real,CG,CG_full_s123,0.406125329705922
+M6 density disc,hovernet,real,CG+M,CGM_full,0.45704275152684026
+M6 density disc,hovernet,real,CG+M,CGM_full_s7,0.4685456837661132
+M6 density disc,hovernet,real,CG+M,CGM_full_s123,0.48738381310911233
+M6 density disc,hovernet,real,CG+M+A,A1_full,0.5714401370599301
+M6 density disc,hovernet,real,CG+M+A,A1_full_s7,0.6115515334338865
+M6 density disc,hovernet,real,CG+M+A,A1_full_s123,0.47724448586517554
+M6 density disc,hovernet,real,CG+M+C,A5_full,0.6050420168067226
+M6 density disc,hovernet,real,CG+M+C,A5_full_s7,0.5772446959053611
+M6 density disc,hovernet,real,CG+M+C,A5_full_s123,0.5677019294997233
+M3 nearest-neighbour distance,instanseg,rt,CG,CG_full,1.039825502395013
+M3 nearest-neighbour distance,instanseg,rt,CG,CG_full_s7,0.9790882287968279
+M3 nearest-neighbour distance,instanseg,rt,CG,CG_full_s123,1.0677212553054387
+M3 nearest-neighbour distance,instanseg,rt,CG+M,CGM_full,1.0838383214343361
+M3 nearest-neighbour distance,instanseg,rt,CG+M,CGM_full_s7,1.1238778763646187
+M3 nearest-neighbour distance,instanseg,rt,CG+M,CGM_full_s123,1.0797356745018054
+M3 nearest-neighbour distance,instanseg,rt,CG+M+A,A1_full,1.106754361982583
+M3 nearest-neighbour distance,instanseg,rt,CG+M+A,A1_full_s7,1.259678655420792
+M3 nearest-neighbour distance,instanseg,rt,CG+M+A,A1_full_s123,1.0012599628491055
+M3 nearest-neighbour distance,instanseg,rt,CG+M+C,A5_full,1.1031812872612696
+M3 nearest-neighbour distance,instanseg,rt,CG+M+C,A5_full_s7,1.0918225587212762
+M3 nearest-neighbour distance,instanseg,rt,CG+M+C,A5_full_s123,1.1338243564574988
+M3 nearest-neighbour distance,instanseg,real,CG,CG_full,1.0342272125435357
+M3 nearest-neighbour distance,instanseg,real,CG,CG_full_s7,0.9753312144306204
+M3 nearest-neighbour distance,instanseg,real,CG,CG_full_s123,1.0615073275855917
+M3 nearest-neighbour distance,instanseg,real,CG+M,CGM_full,1.0810414479142476
+M3 nearest-neighbour distance,instanseg,real,CG+M,CGM_full_s7,1.1163658581822125
+M3 nearest-neighbour distance,instanseg,real,CG+M,CGM_full_s123,1.0764387753953768
+M3 nearest-neighbour distance,instanseg,real,CG+M+A,A1_full,1.1076836011640387
+M3 nearest-neighbour distance,instanseg,real,CG+M+A,A1_full_s7,1.2519918886721662
+M3 nearest-neighbour distance,instanseg,real,CG+M+A,A1_full_s123,0.9899744670090982
+M3 nearest-neighbour distance,instanseg,real,CG+M+C,A5_full,1.103186971917745
+M3 nearest-neighbour distance,instanseg,real,CG+M+C,A5_full_s7,1.0938979099662725
+M3 nearest-neighbour distance,instanseg,real,CG+M+C,A5_full_s123,1.1252413884578196
+M3 cell territory,instanseg,rt,CG,CG_full,0.9989193083573487
+M3 cell territory,instanseg,rt,CG,CG_full_s7,0.8902309682877368
+M3 cell territory,instanseg,rt,CG,CG_full_s123,1.168946493030345
+M3 cell territory,instanseg,rt,CG+M,CGM_full,1.1353601285366404
+M3 cell territory,instanseg,rt,CG+M,CGM_full_s7,1.210997442455243
+M3 cell territory,instanseg,rt,CG+M,CGM_full_s123,1.12217759569605
+M3 cell territory,instanseg,rt,CG+M+A,A1_full,1.2029996342606348
+M3 cell territory,instanseg,rt,CG+M+A,A1_full_s7,1.7133235883585618
+M3 cell territory,instanseg,rt,CG+M+A,A1_full_s123,0.9213007212619675
+M3 cell territory,instanseg,rt,CG+M+C,A5_full,1.1913178199757413
+M3 cell territory,instanseg,rt,CG+M+C,A5_full_s7,1.1542352156514006
+M3 cell territory,instanseg,rt,CG+M+C,A5_full_s123,1.2810366357173069
+M3 cell territory,instanseg,real,CG,CG_full,0.9616336633663366
+M3 cell territory,instanseg,real,CG,CG_full_s7,0.8776645041705282
+M3 cell territory,instanseg,real,CG,CG_full_s123,1.1384
+M3 cell territory,instanseg,real,CG+M,CGM_full,1.119800332778702
+M3 cell territory,instanseg,real,CG+M,CGM_full_s7,1.167990313672875
+M3 cell territory,instanseg,real,CG+M,CGM_full_s123,1.1009174311926606
+M3 cell territory,instanseg,real,CG+M+A,A1_full,1.1740858505564389
+M3 cell territory,instanseg,real,CG+M+A,A1_full_s7,1.6646928201332347
+M3 cell territory,instanseg,real,CG+M+A,A1_full_s123,0.8967851099830795
+M3 cell territory,instanseg,real,CG+M+C,A5_full,1.159493670886076
+M3 cell territory,instanseg,real,CG+M+C,A5_full_s7,1.1182197496522948
+M3 cell territory,instanseg,real,CG+M+C,A5_full_s123,1.2474849094567404
+M6 density r,instanseg,rt,CG,CG_full,-0.16054342244808784
+M6 density r,instanseg,rt,CG,CG_full_s7,0.37435064068396234
+M6 density r,instanseg,rt,CG,CG_full_s123,0.21076080041062398
+M6 density r,instanseg,rt,CG+M,CGM_full,0.4738007861660207
+M6 density r,instanseg,rt,CG+M,CGM_full_s7,0.46320030992368294
+M6 density r,instanseg,rt,CG+M,CGM_full_s123,0.4986770306664952
+M6 density r,instanseg,rt,CG+M+A,A1_full,0.6061033893553404
+M6 density r,instanseg,rt,CG+M+A,A1_full_s7,0.5888638829515657
+M6 density r,instanseg,rt,CG+M+A,A1_full_s123,0.46993194512843434
+M6 density r,instanseg,rt,CG+M+C,A5_full,0.643652038444039
+M6 density r,instanseg,rt,CG+M+C,A5_full_s7,0.6505272352275963
+M6 density r,instanseg,rt,CG+M+C,A5_full_s123,0.6782267767857785
+M6 density r,instanseg,real,CG,CG_full,-0.18170873903299445
+M6 density r,instanseg,real,CG,CG_full_s7,0.3716776832843112
+M6 density r,instanseg,real,CG,CG_full_s123,0.2071792035653477
+M6 density r,instanseg,real,CG+M,CGM_full,0.4648451030950004
+M6 density r,instanseg,real,CG+M,CGM_full_s7,0.45755512391821573
+M6 density r,instanseg,real,CG+M,CGM_full_s123,0.49354765954243984
+M6 density r,instanseg,real,CG+M+A,A1_full,0.6025861099754614
+M6 density r,instanseg,real,CG+M+A,A1_full_s7,0.5841040788792808
+M6 density r,instanseg,real,CG+M+A,A1_full_s123,0.4700480757578456
+M6 density r,instanseg,real,CG+M+C,A5_full,0.6418340970810178
+M6 density r,instanseg,real,CG+M+C,A5_full_s7,0.6450567963121627
+M6 density r,instanseg,real,CG+M+C,A5_full_s123,0.6726566159061439
+M6 density slope,instanseg,rt,CG,CG_full,-0.04470030058150186
+M6 density slope,instanseg,rt,CG,CG_full_s7,0.24221111557966016
+M6 density slope,instanseg,rt,CG,CG_full_s123,0.13447282711231112
+M6 density slope,instanseg,rt,CG+M,CGM_full,0.27486919765018325
+M6 density slope,instanseg,rt,CG+M,CGM_full_s7,0.3158999600101091
+M6 density slope,instanseg,rt,CG+M,CGM_full_s123,0.3186217895040636
+M6 density slope,instanseg,rt,CG+M+A,A1_full,0.42142229477714604
+M6 density slope,instanseg,rt,CG+M+A,A1_full_s7,0.5252581694730322
+M6 density slope,instanseg,rt,CG+M+A,A1_full_s123,0.28151711924335393
+M6 density slope,instanseg,rt,CG+M+C,A5_full,0.44640568902533945
+M6 density slope,instanseg,rt,CG+M+C,A5_full_s7,0.39551962299890625
+M6 density slope,instanseg,rt,CG+M+C,A5_full_s123,0.4432671580951778
+M6 density slope,instanseg,real,CG,CG_full,-0.05909477757101316
+M6 density slope,instanseg,real,CG,CG_full_s7,0.23896495232356418
+M6 density slope,instanseg,real,CG,CG_full_s123,0.12891134339729668
+M6 density slope,instanseg,real,CG+M,CGM_full,0.2632554090278658
+M6 density slope,instanseg,real,CG+M,CGM_full_s7,0.3083024413383058
+M6 density slope,instanseg,real,CG+M,CGM_full_s123,0.31057694506955497
+M6 density slope,instanseg,real,CG+M+A,A1_full,0.4139442380904864
+M6 density slope,instanseg,real,CG+M+A,A1_full_s7,0.5188769324047098
+M6 density slope,instanseg,real,CG+M+A,A1_full_s123,0.2772632969857369
+M6 density slope,instanseg,real,CG+M+C,A5_full,0.43986596616732143
+M6 density slope,instanseg,real,CG+M+C,A5_full_s7,0.38835309177132876
+M6 density slope,instanseg,real,CG+M+C,A5_full_s123,0.43643094119714404
+M6 density disc,instanseg,rt,CG,CG_full,0.28309106661532535
+M6 density disc,instanseg,rt,CG,CG_full_s7,0.40117396915029063
+M6 density disc,instanseg,rt,CG,CG_full_s123,0.3641743302678928
+M6 density disc,instanseg,rt,CG+M,CGM_full,0.44716354990447166
+M6 density disc,instanseg,rt,CG+M,CGM_full_s7,0.3884214218326132
+M6 density disc,instanseg,rt,CG+M,CGM_full_s123,0.46062016586034055
+M6 density disc,instanseg,rt,CG+M+A,A1_full,0.5063123504681946
+M6 density disc,instanseg,rt,CG+M+A,A1_full_s7,0.5949075630252101
+M6 density disc,instanseg,rt,CG+M+A,A1_full_s123,0.4348901919772914
+M6 density disc,instanseg,rt,CG+M+C,A5_full,0.5566141754544683
+M6 density disc,instanseg,rt,CG+M+C,A5_full_s7,0.5132544661455142
+M6 density disc,instanseg,rt,CG+M+C,A5_full_s123,0.5321178751191362
+M6 density disc,instanseg,real,CG,CG_full,0.284034910055386
+M6 density disc,instanseg,real,CG,CG_full_s7,0.3957234638950215
+M6 density disc,instanseg,real,CG,CG_full_s123,0.36758279976457575
+M6 density disc,instanseg,real,CG+M,CGM_full,0.4597701149425288
+M6 density disc,instanseg,real,CG+M,CGM_full_s7,0.4063439871870071
+M6 density disc,instanseg,real,CG+M,CGM_full_s123,0.4744937347823505
+M6 density disc,instanseg,real,CG+M+A,A1_full,0.5384585780598712
+M6 density disc,instanseg,real,CG+M+A,A1_full_s7,0.6102072539380726
+M6 density disc,instanseg,real,CG+M+A,A1_full_s123,0.44296095994591855
+M6 density disc,instanseg,real,CG+M+C,A5_full,0.577204391338246
+M6 density disc,instanseg,real,CG+M+C,A5_full_s7,0.5165796302822542
+M6 density disc,instanseg,real,CG+M+C,A5_full_s123,0.5555555555555556
+M6 density r,cellpose,rt,CG,CG_full,-0.1642808619326663
+M6 density r,cellpose,rt,CG,CG_full_s7,0.29642830232564527
+M6 density r,cellpose,rt,CG,CG_full_s123,0.09412544593725078
+M6 density r,cellpose,rt,CG+M,CGM_full,0.3907757649761372
+M6 density r,cellpose,rt,CG+M,CGM_full_s7,0.4740755175352942
+M6 density r,cellpose,rt,CG+M,CGM_full_s123,0.358572817275186
+M6 density r,cellpose,rt,CG+M+A,A1_full,0.5191236792878338
+M6 density r,cellpose,rt,CG+M+A,A1_full_s7,0.5635752827878051
+M6 density r,cellpose,rt,CG+M+A,A1_full_s123,0.43048341895482534
+M6 density r,cellpose,rt,CG+M+C,A5_full,0.5810724369795303
+M6 density r,cellpose,rt,CG+M+C,A5_full_s7,0.6148594245555798
+M6 density r,cellpose,rt,CG+M+C,A5_full_s123,0.6089332666166398
+M6 density r,cellpose,real,CG,CG_full,-0.18245233875637396
+M6 density r,cellpose,real,CG,CG_full_s7,0.2901369006929118
+M6 density r,cellpose,real,CG,CG_full_s123,0.08055877983166093
+M6 density r,cellpose,real,CG+M,CGM_full,0.37666517028773117
+M6 density r,cellpose,real,CG+M,CGM_full_s7,0.4734256292847861
+M6 density r,cellpose,real,CG+M,CGM_full_s123,0.3474546282163051
+M6 density r,cellpose,real,CG+M+A,A1_full,0.5158886197933804
+M6 density r,cellpose,real,CG+M+A,A1_full_s7,0.5621165203322395
+M6 density r,cellpose,real,CG+M+A,A1_full_s123,0.42946679267702176
+M6 density r,cellpose,real,CG+M+C,A5_full,0.5782683938868537
+M6 density r,cellpose,real,CG+M+C,A5_full_s7,0.6103816674364735
+M6 density r,cellpose,real,CG+M+C,A5_full_s123,0.6058134899863141
+M6 density slope,cellpose,rt,CG,CG_full,-0.06832237917912831
+M6 density slope,cellpose,rt,CG,CG_full_s7,0.21455619093049585
+M6 density slope,cellpose,rt,CG,CG_full_s123,0.09006760387649795
+M6 density slope,cellpose,rt,CG+M,CGM_full,0.24307429974959946
+M6 density slope,cellpose,rt,CG+M,CGM_full_s7,0.3492560669654773
+M6 density slope,cellpose,rt,CG+M,CGM_full_s123,0.2561968434488301
+M6 density slope,cellpose,rt,CG+M+A,A1_full,0.34884486515339275
+M6 density slope,cellpose,rt,CG+M+A,A1_full_s7,0.5068064994936677
+M6 density slope,cellpose,rt,CG+M+A,A1_full_s123,0.25926237792087
+M6 density slope,cellpose,rt,CG+M+C,A5_full,0.44988517646577175
+M6 density slope,cellpose,rt,CG+M+C,A5_full_s7,0.43112690170163454
+M6 density slope,cellpose,rt,CG+M+C,A5_full_s123,0.40058237970094474
+M6 density slope,cellpose,real,CG,CG_full,-0.07795106527385413
+M6 density slope,cellpose,real,CG,CG_full_s7,0.20842813017784076
+M6 density slope,cellpose,real,CG,CG_full_s123,0.07982846622779596
+M6 density slope,cellpose,real,CG+M,CGM_full,0.22894133081201748
+M6 density slope,cellpose,real,CG+M,CGM_full_s7,0.3439482849486168
+M6 density slope,cellpose,real,CG+M,CGM_full_s123,0.24848134274874395
+M6 density slope,cellpose,real,CG+M+A,A1_full,0.342084954424235
+M6 density slope,cellpose,real,CG+M+A,A1_full_s7,0.5001460915920417
+M6 density slope,cellpose,real,CG+M+A,A1_full_s123,0.25239019312368205
+M6 density slope,cellpose,real,CG+M+C,A5_full,0.44388405270493975
+M6 density slope,cellpose,real,CG+M+C,A5_full_s7,0.41985566297659244
+M6 density slope,cellpose,real,CG+M+C,A5_full_s123,0.39331544224627096
+M6 density disc,cellpose,rt,CG,CG_full,0.2810803516608079
+M6 density disc,cellpose,rt,CG,CG_full_s7,0.38645833333333335
+M6 density disc,cellpose,rt,CG,CG_full_s123,0.333410493337815
+M6 density disc,cellpose,rt,CG+M,CGM_full,0.40274430771383485
+M6 density disc,cellpose,rt,CG+M,CGM_full_s7,0.4545550505198848
+M6 density disc,cellpose,rt,CG+M,CGM_full_s123,0.435497997997998
+M6 density disc,cellpose,rt,CG+M+A,A1_full,0.5
+M6 density disc,cellpose,rt,CG+M+A,A1_full_s7,0.5959609711822101
+M6 density disc,cellpose,rt,CG+M+A,A1_full_s123,0.4172671560374436
+M6 density disc,cellpose,rt,CG+M+C,A5_full,0.571958671104202
+M6 density disc,cellpose,rt,CG+M+C,A5_full_s7,0.5633001422475107
+M6 density disc,cellpose,rt,CG+M+C,A5_full_s123,0.5463705651739841
+M6 density disc,cellpose,real,CG,CG_full,0.27534203980099503
+M6 density disc,cellpose,real,CG,CG_full_s7,0.3809195100037254
+M6 density disc,cellpose,real,CG,CG_full_s123,0.33487082182840405
+M6 density disc,cellpose,real,CG+M,CGM_full,0.3868908843167206
+M6 density disc,cellpose,real,CG+M,CGM_full_s7,0.45070941977872525
+M6 density disc,cellpose,real,CG+M,CGM_full_s123,0.4316158502891806
+M6 density disc,cellpose,real,CG+M+A,A1_full,0.5002840062970684
+M6 density disc,cellpose,real,CG+M+A,A1_full_s7,0.5727068928543424
+M6 density disc,cellpose,real,CG+M+A,A1_full_s123,0.40521235993113974
+M6 density disc,cellpose,real,CG+M+C,A5_full,0.5735930735930737
+M6 density disc,cellpose,real,CG+M+C,A5_full_s7,0.5632686148127645
+M6 density disc,cellpose,real,CG+M+C,A5_full_s123,0.5482383578431373
+M5 mean H (tissue),stardist,rt,CG,CG_full,1.098107562311692
+M5 mean H (tissue),stardist,rt,CG,CG_full_s7,1.2095712230312288
+M5 mean H (tissue),stardist,rt,CG,CG_full_s123,1.001839916349669
+M5 mean H (tissue),stardist,rt,CG+M,CGM_full,1.149442146642539
+M5 mean H (tissue),stardist,rt,CG+M,CGM_full_s7,1.1204136732784173
+M5 mean H (tissue),stardist,rt,CG+M,CGM_full_s123,1.161061010492377
+M5 mean H (tissue),stardist,rt,CG+M+A,A1_full,0.9609977973370369
+M5 mean H (tissue),stardist,rt,CG+M+A,A1_full_s7,0.8769384929143338
+M5 mean H (tissue),stardist,rt,CG+M+A,A1_full_s123,1.0554702185943814
+M5 mean H (tissue),stardist,rt,CG+M+C,A5_full,1.0720226973412492
+M5 mean H (tissue),stardist,rt,CG+M+C,A5_full_s7,1.0314880032677145
+M5 mean H (tissue),stardist,rt,CG+M+C,A5_full_s123,0.964180085392597
+M5 mean H (tissue),stardist,real,CG,CG_full,1.08855878131493
+M5 mean H (tissue),stardist,real,CG,CG_full_s7,1.2063235161684738
+M5 mean H (tissue),stardist,real,CG,CG_full_s123,0.9929669182746388
+M5 mean H (tissue),stardist,real,CG+M,CGM_full,1.148805230551615
+M5 mean H (tissue),stardist,real,CG+M,CGM_full_s7,1.117545632546464
+M5 mean H (tissue),stardist,real,CG+M,CGM_full_s123,1.15559759590916
+M5 mean H (tissue),stardist,real,CG+M+A,A1_full,0.9587051681202639
+M5 mean H (tissue),stardist,real,CG+M+A,A1_full_s7,0.877117743714865
+M5 mean H (tissue),stardist,real,CG+M+A,A1_full_s123,1.056572984001967
+M5 mean H (tissue),stardist,real,CG+M+C,A5_full,1.0702113508445095
+M5 mean H (tissue),stardist,real,CG+M+C,A5_full_s7,1.0308498569544693
+M5 mean H (tissue),stardist,real,CG+M+C,A5_full_s123,0.9610008115364392
+M5 mean E (tissue),stardist,rt,CG,CG_full,1.0373794717208096
+M5 mean E (tissue),stardist,rt,CG,CG_full_s7,0.9824443366796662
+M5 mean E (tissue),stardist,rt,CG,CG_full_s123,1.160126328726443
+M5 mean E (tissue),stardist,rt,CG+M,CGM_full,0.8321268528523043
+M5 mean E (tissue),stardist,rt,CG+M,CGM_full_s7,0.6797841567545544
+M5 mean E (tissue),stardist,rt,CG+M,CGM_full_s123,1.0005506311170116
+M5 mean E (tissue),stardist,rt,CG+M+A,A1_full,0.9734727993921855
+M5 mean E (tissue),stardist,rt,CG+M+A,A1_full_s7,0.7596859401721627
+M5 mean E (tissue),stardist,rt,CG+M+A,A1_full_s123,1.0237016693541907
+M5 mean E (tissue),stardist,rt,CG+M+C,A5_full,1.0249732066946886
+M5 mean E (tissue),stardist,rt,CG+M+C,A5_full_s7,0.8038912806762398
+M5 mean E (tissue),stardist,rt,CG+M+C,A5_full_s123,1.1782307079132777
+M5 mean E (tissue),stardist,real,CG,CG_full,1.032337576878719
+M5 mean E (tissue),stardist,real,CG,CG_full_s7,0.977496731048078
+M5 mean E (tissue),stardist,real,CG,CG_full_s123,1.156267111874484
+M5 mean E (tissue),stardist,real,CG+M,CGM_full,0.8310491238673998
+M5 mean E (tissue),stardist,real,CG+M,CGM_full_s7,0.6789523689171301
+M5 mean E (tissue),stardist,real,CG+M,CGM_full_s123,0.9945863156796022
+M5 mean E (tissue),stardist,real,CG+M+A,A1_full,0.9695493206190829
+M5 mean E (tissue),stardist,real,CG+M+A,A1_full_s7,0.7558203109386721
+M5 mean E (tissue),stardist,real,CG+M+A,A1_full_s123,1.0224112850474527
+M5 mean E (tissue),stardist,real,CG+M+C,A5_full,1.0210507575471184
+M5 mean E (tissue),stardist,real,CG+M+C,A5_full_s7,0.8016140890334988
+M5 mean E (tissue),stardist,real,CG+M+C,A5_full_s123,1.1740576840463146
+M5 H fraction,stardist,rt,CG,CG_full,1.0289805317305767
+M5 H fraction,stardist,rt,CG,CG_full_s7,1.075128806841074
+M5 H fraction,stardist,rt,CG,CG_full_s123,0.954914445773041
+M5 H fraction,stardist,rt,CG+M,CGM_full,1.1003007621814458
+M5 H fraction,stardist,rt,CG+M,CGM_full_s7,1.1528135948622131
+M5 H fraction,stardist,rt,CG+M,CGM_full_s123,1.0509969969530977
+M5 H fraction,stardist,rt,CG+M+A,A1_full,0.9954795928334115
+M5 H fraction,stardist,rt,CG+M+A,A1_full_s7,1.0453147771425222
+M5 H fraction,stardist,rt,CG+M+A,A1_full_s123,1.0099941437919053
+M5 H fraction,stardist,rt,CG+M+C,A5_full,1.0154712876039378
+M5 H fraction,stardist,rt,CG+M+C,A5_full_s7,1.0751223316853467
+M5 H fraction,stardist,rt,CG+M+C,A5_full_s123,0.93320279925624
+M5 H fraction,stardist,real,CG,CG_full,1.028963610540929
+M5 H fraction,stardist,real,CG,CG_full_s7,1.0765723701555536
+M5 H fraction,stardist,real,CG,CG_full_s123,0.9559358196015982
+M5 H fraction,stardist,real,CG+M,CGM_full,1.1023854763984193
+M5 H fraction,stardist,real,CG+M,CGM_full_s7,1.1550575244800871
+M5 H fraction,stardist,real,CG+M,CGM_full_s123,1.0499774937382182
+M5 H fraction,stardist,real,CG+M+A,A1_full,0.9963616502815553
+M5 H fraction,stardist,real,CG+M+A,A1_full_s7,1.045380981890965
+M5 H fraction,stardist,real,CG+M+A,A1_full_s123,1.010236287364914
+M5 H fraction,stardist,real,CG+M+C,A5_full,1.0165640727221983
+M5 H fraction,stardist,real,CG+M+C,A5_full_s7,1.0754765532045414
+M5 H fraction,stardist,real,CG+M+C,A5_full_s123,0.9345490392146645

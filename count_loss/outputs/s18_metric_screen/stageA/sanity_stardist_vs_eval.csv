@@ -1,0 +1,13 @@
+run,patches,count_mismatch,real_mismatch
+CG_full,1038,0,0
+CG_full_s7,1038,0,0
+CG_full_s123,1038,0,0
+CGM_full,1038,0,0
+CGM_full_s7,1038,0,0
+CGM_full_s123,1038,0,0
+A1_full,1038,0,0
+A1_full_s7,1038,0,0
+A1_full_s123,1038,0,0
+A5_full,1038,0,0
+A5_full_s7,1038,0,0
+A5_full_s123,1038,0,0

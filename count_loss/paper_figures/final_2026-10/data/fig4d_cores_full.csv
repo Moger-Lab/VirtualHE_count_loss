@@ -1,0 +1,16 @@
+rule,core,set,n_in_disc,n_eval_patches_only
+densest,C-3,real,7917,6809.0
+densest,C-3,CG,3183,2795.0
+densest,C-3,CG+M,3253,2704.0
+densest,C-3,CG+M+A,2915,2507.0
+densest,C-3,CG+M+C,2654,2208.0
+typical,D-2,real,3157,2785.0
+typical,D-2,CG,2957,2639.0
+typical,D-2,CG+M,2609,2316.0
+typical,D-2,CG+M+A,2605,2354.0
+typical,D-2,CG+M+C,2381,2087.0
+candidate,H-2,real,4612,
+candidate,H-2,CG,1810,
+candidate,H-2,CG+M,3131,
+candidate,H-2,CG+M+A,3169,
+candidate,H-2,CG+M+C,3180,

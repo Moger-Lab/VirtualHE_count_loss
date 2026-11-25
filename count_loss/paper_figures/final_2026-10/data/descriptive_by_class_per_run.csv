@@ -1,0 +1,217 @@
+metric,detector,subset,model,run,seed,value
+M1 nuclear area,stardist,low,CG,CG_full,42,0.9795854748943158
+M1 nuclear area,stardist,low,CG,CG_full_s7,7,0.9693722300140253
+M1 nuclear area,stardist,low,CG,CG_full_s123,123,0.7440987579008015
+M1 nuclear area,stardist,low,CG+M,CGM_full,42,0.780936771737991
+M1 nuclear area,stardist,low,CG+M,CGM_full_s7,7,0.8683781531640858
+M1 nuclear area,stardist,low,CG+M,CGM_full_s123,123,0.9032548730038161
+M1 nuclear area,stardist,low,CG+M+A,A1_full,42,0.8101302849192044
+M1 nuclear area,stardist,low,CG+M+A,A1_full_s7,7,0.8236150182436008
+M1 nuclear area,stardist,low,CG+M+A,A1_full_s123,123,0.7629204655339136
+M1 nuclear area,stardist,low,CG+M+C,A5_full,42,0.9241114354395603
+M1 nuclear area,stardist,low,CG+M+C,A5_full_s7,7,0.8853822751551399
+M1 nuclear area,stardist,low,CG+M+C,A5_full_s123,123,0.9905542544886807
+M1 nuclear area,stardist,med,CG,CG_full,42,0.9454227514933738
+M1 nuclear area,stardist,med,CG,CG_full_s7,7,0.9421336263276303
+M1 nuclear area,stardist,med,CG,CG_full_s123,123,0.7530415622744926
+M1 nuclear area,stardist,med,CG+M,CGM_full,42,0.7817814133284842
+M1 nuclear area,stardist,med,CG+M,CGM_full_s7,7,0.8670723213531148
+M1 nuclear area,stardist,med,CG+M,CGM_full_s123,123,0.8768359875131271
+M1 nuclear area,stardist,med,CG+M+A,A1_full,42,0.8339366321924461
+M1 nuclear area,stardist,med,CG+M+A,A1_full_s7,7,0.8073370894856517
+M1 nuclear area,stardist,med,CG+M+A,A1_full_s123,123,0.7334663933541914
+M1 nuclear area,stardist,med,CG+M+C,A5_full,42,0.9103888734234138
+M1 nuclear area,stardist,med,CG+M+C,A5_full_s7,7,0.8218210361067504
+M1 nuclear area,stardist,med,CG+M+C,A5_full_s123,123,0.9685890410958904
+M1 nuclear area,stardist,high,CG,CG_full,42,0.9549710272079002
+M1 nuclear area,stardist,high,CG,CG_full_s7,7,1.0291324575807335
+M1 nuclear area,stardist,high,CG,CG_full_s123,123,0.8170451292591707
+M1 nuclear area,stardist,high,CG+M,CGM_full,42,0.9013267910579124
+M1 nuclear area,stardist,high,CG+M,CGM_full_s7,7,0.8512606814775849
+M1 nuclear area,stardist,high,CG+M,CGM_full_s123,123,0.9853223896097835
+M1 nuclear area,stardist,high,CG+M+A,A1_full,42,0.9359913793103448
+M1 nuclear area,stardist,high,CG+M+A,A1_full_s7,7,0.8289703195718233
+M1 nuclear area,stardist,high,CG+M+A,A1_full_s123,123,0.7618494048367117
+M1 nuclear area,stardist,high,CG+M+C,A5_full,42,0.9852828511712847
+M1 nuclear area,stardist,high,CG+M+C,A5_full_s7,7,0.7939118629908104
+M1 nuclear area,stardist,high,CG+M+C,A5_full_s123,123,1.0333387222261516
+M1 nuclear area,cellvit_sam,low,CG,CG_full,42,1.0107290698656755
+M1 nuclear area,cellvit_sam,low,CG,CG_full_s7,7,0.9747474747474747
+M1 nuclear area,cellvit_sam,low,CG,CG_full_s123,123,0.7563903651637236
+M1 nuclear area,cellvit_sam,low,CG+M,CGM_full,42,0.783029469834743
+M1 nuclear area,cellvit_sam,low,CG+M,CGM_full_s7,7,0.8432304038004751
+M1 nuclear area,cellvit_sam,low,CG+M,CGM_full_s123,123,1.025243780966916
+M1 nuclear area,cellvit_sam,low,CG+M+A,A1_full,42,0.8128654970760234
+M1 nuclear area,cellvit_sam,low,CG+M+A,A1_full_s7,7,0.7579298831385642
+M1 nuclear area,cellvit_sam,low,CG+M+A,A1_full_s123,123,0.7337965814408404
+M1 nuclear area,cellvit_sam,low,CG+M+C,A5_full,42,0.9425941458899751
+M1 nuclear area,cellvit_sam,low,CG+M+C,A5_full_s7,7,0.9015664160401001
+M1 nuclear area,cellvit_sam,low,CG+M+C,A5_full_s123,123,1.057301293900185
+M1 nuclear area,cellvit_sam,med,CG,CG_full,42,0.9991399827553624
+M1 nuclear area,cellvit_sam,med,CG,CG_full_s7,7,0.9758897892751651
+M1 nuclear area,cellvit_sam,med,CG,CG_full_s123,123,0.758471630794839
+M1 nuclear area,cellvit_sam,med,CG+M,CGM_full,42,0.7770740318346603
+M1 nuclear area,cellvit_sam,med,CG+M,CGM_full_s7,7,0.806410804263417
+M1 nuclear area,cellvit_sam,med,CG+M,CGM_full_s123,123,1.0011210762331837
+M1 nuclear area,cellvit_sam,med,CG+M+A,A1_full,42,0.8548644338118022
+M1 nuclear area,cellvit_sam,med,CG+M+A,A1_full_s7,7,0.7527949113338473
+M1 nuclear area,cellvit_sam,med,CG+M+A,A1_full_s123,123,0.7142432105843843
+M1 nuclear area,cellvit_sam,med,CG+M+C,A5_full,42,0.9359687704734927
+M1 nuclear area,cellvit_sam,med,CG+M+C,A5_full_s7,7,0.8370881278753678
+M1 nuclear area,cellvit_sam,med,CG+M+C,A5_full_s123,123,1.031110650277757
+M1 nuclear area,cellvit_sam,high,CG,CG_full,42,1.0709295515394914
+M1 nuclear area,cellvit_sam,high,CG,CG_full_s7,7,1.0587793298951467
+M1 nuclear area,cellvit_sam,high,CG,CG_full_s123,123,0.8601865655518106
+M1 nuclear area,cellvit_sam,high,CG+M,CGM_full,42,0.886912650889605
+M1 nuclear area,cellvit_sam,high,CG+M,CGM_full_s7,7,0.8620314591700133
+M1 nuclear area,cellvit_sam,high,CG+M,CGM_full_s123,123,1.099738760000594
+M1 nuclear area,cellvit_sam,high,CG+M+A,A1_full,42,0.9382344228300583
+M1 nuclear area,cellvit_sam,high,CG+M+A,A1_full_s7,7,0.8171049231808877
+M1 nuclear area,cellvit_sam,high,CG+M+A,A1_full_s123,123,0.7996579247434437
+M1 nuclear area,cellvit_sam,high,CG+M+C,A5_full,42,0.9714442466825705
+M1 nuclear area,cellvit_sam,high,CG+M+C,A5_full_s7,7,0.8529010377944577
+M1 nuclear area,cellvit_sam,high,CG+M+C,A5_full_s123,123,1.0646511627906978
+M5 mean H (tissue),stardist,low,CG,CG_full,42,1.3231397410791503
+M5 mean H (tissue),stardist,low,CG,CG_full_s7,7,1.4636583328707609
+M5 mean H (tissue),stardist,low,CG,CG_full_s123,123,1.1784994709585688
+M5 mean H (tissue),stardist,low,CG+M,CGM_full,42,1.295483263682068
+M5 mean H (tissue),stardist,low,CG+M,CGM_full_s7,7,1.2583195337215551
+M5 mean H (tissue),stardist,low,CG+M,CGM_full_s123,123,1.3076452490412005
+M5 mean H (tissue),stardist,low,CG+M+A,A1_full,42,1.0412817513221415
+M5 mean H (tissue),stardist,low,CG+M+A,A1_full_s7,7,0.9375103081486851
+M5 mean H (tissue),stardist,low,CG+M+A,A1_full_s123,123,1.181708765472791
+M5 mean H (tissue),stardist,low,CG+M+C,A5_full,42,1.1991622692939288
+M5 mean H (tissue),stardist,low,CG+M+C,A5_full_s7,7,1.1492419457946486
+M5 mean H (tissue),stardist,low,CG+M+C,A5_full_s123,123,1.0319064626826417
+M5 mean H (tissue),stardist,med,CG,CG_full,42,1.195454191046248
+M5 mean H (tissue),stardist,med,CG,CG_full_s7,7,1.2903124653402736
+M5 mean H (tissue),stardist,med,CG,CG_full_s123,123,1.0615075905710514
+M5 mean H (tissue),stardist,med,CG+M,CGM_full,42,1.1897385205644335
+M5 mean H (tissue),stardist,med,CG+M,CGM_full_s7,7,1.1591892382902453
+M5 mean H (tissue),stardist,med,CG+M,CGM_full_s123,123,1.1948214866548694
+M5 mean H (tissue),stardist,med,CG+M+A,A1_full,42,0.9870792080976306
+M5 mean H (tissue),stardist,med,CG+M+A,A1_full_s7,7,0.9038109124868852
+M5 mean H (tissue),stardist,med,CG+M+A,A1_full_s123,123,1.0625584402641672
+M5 mean H (tissue),stardist,med,CG+M+C,A5_full,42,1.1043541041983462
+M5 mean H (tissue),stardist,med,CG+M+C,A5_full_s7,7,1.0549535148335005
+M5 mean H (tissue),stardist,med,CG+M+C,A5_full_s123,123,1.0001617540791676
+M5 mean H (tissue),stardist,high,CG,CG_full,42,0.9100363362567407
+M5 mean H (tissue),stardist,high,CG,CG_full_s7,7,1.066918531524523
+M5 mean H (tissue),stardist,high,CG,CG_full_s123,123,0.8687924428144036
+M5 mean H (tissue),stardist,high,CG+M,CGM_full,42,1.0266832991982713
+M5 mean H (tissue),stardist,high,CG+M,CGM_full_s7,7,1.015180115587896
+M5 mean H (tissue),stardist,high,CG+M,CGM_full_s123,123,1.0513152666758732
+M5 mean H (tissue),stardist,high,CG+M+A,A1_full,42,0.8791401450850331
+M5 mean H (tissue),stardist,high,CG+M+A,A1_full_s7,7,0.8249554624776352
+M5 mean H (tissue),stardist,high,CG+M+A,A1_full_s123,123,0.9851175469194204
+M5 mean H (tissue),stardist,high,CG+M+C,A5_full,42,0.982537672209083
+M5 mean H (tissue),stardist,high,CG+M+C,A5_full_s7,7,0.9647647311121115
+M5 mean H (tissue),stardist,high,CG+M+C,A5_full_s123,123,0.893443246276138
+M5 mean H (tissue),stardist,stromal,CG,CG_full,42,1.5178364745124315
+M5 mean H (tissue),stardist,stromal,CG,CG_full_s7,7,1.6697578151596342
+M5 mean H (tissue),stardist,stromal,CG,CG_full_s123,123,1.259241457606301
+M5 mean H (tissue),stardist,stromal,CG+M,CGM_full,42,1.3549141551055122
+M5 mean H (tissue),stardist,stromal,CG+M,CGM_full_s7,7,1.344162004368386
+M5 mean H (tissue),stardist,stromal,CG+M,CGM_full_s123,123,1.371306548308748
+M5 mean H (tissue),stardist,stromal,CG+M+A,A1_full,42,1.045323559016507
+M5 mean H (tissue),stardist,stromal,CG+M+A,A1_full_s7,7,1.0128077784690739
+M5 mean H (tissue),stardist,stromal,CG+M+A,A1_full_s123,123,1.2349370206688715
+M5 mean H (tissue),stardist,stromal,CG+M+C,A5_full,42,1.2770249679361043
+M5 mean H (tissue),stardist,stromal,CG+M+C,A5_full_s7,7,1.2125770461597893
+M5 mean H (tissue),stardist,stromal,CG+M+C,A5_full_s123,123,1.0615628595552875
+M5 mean E (tissue),stardist,low,CG,CG_full,42,1.0133647662892737
+M5 mean E (tissue),stardist,low,CG,CG_full_s7,7,1.0342704162316043
+M5 mean E (tissue),stardist,low,CG,CG_full_s123,123,1.2183715289937358
+M5 mean E (tissue),stardist,low,CG+M,CGM_full,42,0.8700251380857659
+M5 mean E (tissue),stardist,low,CG+M,CGM_full_s7,7,0.710993605145735
+M5 mean E (tissue),stardist,low,CG+M,CGM_full_s123,123,1.0205488527723858
+M5 mean E (tissue),stardist,low,CG+M+A,A1_full,42,1.041264657625573
+M5 mean E (tissue),stardist,low,CG+M+A,A1_full_s7,7,0.8097606274248038
+M5 mean E (tissue),stardist,low,CG+M+A,A1_full_s123,123,1.0235107245609407
+M5 mean E (tissue),stardist,low,CG+M+C,A5_full,42,1.0735493783160512
+M5 mean E (tissue),stardist,low,CG+M+C,A5_full_s7,7,0.8150178044761509
+M5 mean E (tissue),stardist,low,CG+M+C,A5_full_s123,123,1.2032625696651422
+M5 mean E (tissue),stardist,med,CG,CG_full,42,1.0547455513285575
+M5 mean E (tissue),stardist,med,CG,CG_full_s7,7,0.9611234842518964
+M5 mean E (tissue),stardist,med,CG,CG_full_s123,123,1.151667606696658
+M5 mean E (tissue),stardist,med,CG+M,CGM_full,42,0.7853079024553773
+M5 mean E (tissue),stardist,med,CG+M,CGM_full_s7,7,0.6656603073147478
+M5 mean E (tissue),stardist,med,CG+M,CGM_full_s123,123,0.9359550034122621
+M5 mean E (tissue),stardist,med,CG+M+A,A1_full,42,0.9268932990661833
+M5 mean E (tissue),stardist,med,CG+M+A,A1_full_s7,7,0.7143078763798415
+M5 mean E (tissue),stardist,med,CG+M+A,A1_full_s123,123,0.9797071592773421
+M5 mean E (tissue),stardist,med,CG+M+C,A5_full,42,1.001824657776281
+M5 mean E (tissue),stardist,med,CG+M+C,A5_full_s7,7,0.7514717323037436
+M5 mean E (tissue),stardist,med,CG+M+C,A5_full_s123,123,1.1522254605394484
+M5 mean E (tissue),stardist,high,CG,CG_full,42,1.0071109336647734
+M5 mean E (tissue),stardist,high,CG,CG_full_s7,7,0.9474269915604637
+M5 mean E (tissue),stardist,high,CG,CG_full_s123,123,1.1271945425211791
+M5 mean E (tissue),stardist,high,CG+M,CGM_full,42,0.8730315979438074
+M5 mean E (tissue),stardist,high,CG+M,CGM_full_s7,7,0.6807739663579473
+M5 mean E (tissue),stardist,high,CG+M,CGM_full_s123,123,1.092365425162656
+M5 mean E (tissue),stardist,high,CG+M+A,A1_full,42,0.9815751966442603
+M5 mean E (tissue),stardist,high,CG+M+A,A1_full_s7,7,0.7976773592828712
+M5 mean E (tissue),stardist,high,CG+M+A,A1_full_s123,123,1.1280495001540216
+M5 mean E (tissue),stardist,high,CG+M+C,A5_full,42,1.0210750668229807
+M5 mean E (tissue),stardist,high,CG+M+C,A5_full_s7,7,0.8590345497335197
+M5 mean E (tissue),stardist,high,CG+M+C,A5_full_s123,123,1.1799117118066431
+M5 mean E (tissue),stardist,stromal,CG,CG_full,42,0.9503301592716679
+M5 mean E (tissue),stardist,stromal,CG,CG_full_s7,7,1.0581160087942534
+M5 mean E (tissue),stardist,stromal,CG,CG_full_s123,123,1.2177305420258242
+M5 mean E (tissue),stardist,stromal,CG+M,CGM_full,42,0.9173796085795551
+M5 mean E (tissue),stardist,stromal,CG+M,CGM_full_s7,7,0.7338493051313221
+M5 mean E (tissue),stardist,stromal,CG+M,CGM_full_s123,123,1.058657830704235
+M5 mean E (tissue),stardist,stromal,CG+M+A,A1_full,42,1.0887978426677174
+M5 mean E (tissue),stardist,stromal,CG+M+A,A1_full_s7,7,0.8470840883109421
+M5 mean E (tissue),stardist,stromal,CG+M+A,A1_full_s123,123,1.0514159299565613
+M5 mean E (tissue),stardist,stromal,CG+M+C,A5_full,42,1.105710458432587
+M5 mean E (tissue),stardist,stromal,CG+M+C,A5_full_s7,7,0.8264618393183655
+M5 mean E (tissue),stardist,stromal,CG+M+C,A5_full_s123,123,1.2083594127868613
+M5 H fraction,stardist,low,CG,CG_full,42,1.1011462014829603
+M5 H fraction,stardist,low,CG,CG_full_s7,7,1.1368000194728192
+M5 H fraction,stardist,low,CG,CG_full_s123,123,0.9955623996845726
+M5 H fraction,stardist,low,CG+M,CGM_full,42,1.1501946849959588
+M5 H fraction,stardist,low,CG+M,CGM_full_s7,7,1.2060753513063633
+M5 H fraction,stardist,low,CG+M,CGM_full_s123,123,1.0908506316085604
+M5 H fraction,stardist,low,CG+M+A,A1_full,42,0.9957931076299054
+M5 H fraction,stardist,low,CG+M+A,A1_full_s7,7,1.0655427982310388
+M5 H fraction,stardist,low,CG+M+A,A1_full_s123,123,1.0427618300932435
+M5 H fraction,stardist,low,CG+M+C,A5_full,42,1.0487773434853411
+M5 H fraction,stardist,low,CG+M+C,A5_full_s7,7,1.1312472112229908
+M5 H fraction,stardist,low,CG+M+C,A5_full_s123,123,0.9471361256693858
+M5 H fraction,stardist,med,CG,CG_full,42,1.0409029177915374
+M5 H fraction,stardist,med,CG,CG_full_s7,7,1.0917859613267782
+M5 H fraction,stardist,med,CG,CG_full_s123,123,0.9726734533254028
+M5 H fraction,stardist,med,CG+M,CGM_full,42,1.1243442233963326
+M5 H fraction,stardist,med,CG+M,CGM_full_s7,7,1.1672272314937642
+M5 H fraction,stardist,med,CG+M,CGM_full_s123,123,1.0730648883466354
+M5 H fraction,stardist,med,CG+M+A,A1_full,42,1.0203224691370765
+M5 H fraction,stardist,med,CG+M+A,A1_full_s7,7,1.0639345829429017
+M5 H fraction,stardist,med,CG+M+A,A1_full_s123,123,1.0266506950788068
+M5 H fraction,stardist,med,CG+M+C,A5_full,42,1.0274073836460054
+M5 H fraction,stardist,med,CG+M+C,A5_full_s7,7,1.0990344515946087
+M5 H fraction,stardist,med,CG+M+C,A5_full_s123,123,0.9473428532578898
+M5 H fraction,stardist,high,CG,CG_full,42,0.9782025906785897
+M5 H fraction,stardist,high,CG,CG_full_s7,7,1.0424157960671363
+M5 H fraction,stardist,high,CG,CG_full_s123,123,0.9216233370264999
+M5 H fraction,stardist,high,CG+M,CGM_full,42,1.0477904536394846
+M5 H fraction,stardist,high,CG+M,CGM_full_s7,7,1.1104792836009678
+M5 H fraction,stardist,high,CG+M,CGM_full_s123,123,0.98913246090468
+M5 H fraction,stardist,high,CG+M+A,A1_full,42,0.959650857825024
+M5 H fraction,stardist,high,CG+M+A,A1_full_s7,7,1.0150748720988496
+M5 H fraction,stardist,high,CG+M+A,A1_full_s123,123,0.9594451610667397
+M5 H fraction,stardist,high,CG+M+C,A5_full,42,0.9873118373800207
+M5 H fraction,stardist,high,CG+M+C,A5_full_s7,7,1.035328929762967
+M5 H fraction,stardist,high,CG+M+C,A5_full_s123,123,0.9112363388625819
+M5 H fraction,stardist,stromal,CG,CG_full,42,1.222993578693031
+M5 H fraction,stardist,stromal,CG,CG_full_s7,7,1.2283172453896356
+M5 H fraction,stardist,stromal,CG,CG_full_s123,123,1.0684369707828718
+M5 H fraction,stardist,stromal,CG+M,CGM_full,42,1.1977146536696577
+M5 H fraction,stardist,stromal,CG+M,CGM_full_s7,7,1.2770305355592952
+M5 H fraction,stardist,stromal,CG+M,CGM_full_s123,123,1.1340696547293012
+M5 H fraction,stardist,stromal,CG+M+A,A1_full,42,0.9846447057361509
+M5 H fraction,stardist,stromal,CG+M+A,A1_full_s7,7,1.0926992427448854
+M5 H fraction,stardist,stromal,CG+M+A,A1_full_s123,123,1.0651721782244767
+M5 H fraction,stardist,stromal,CG+M+C,A5_full,42,1.0890824003285258
+M5 H fraction,stardist,stromal,CG+M+C,A5_full_s7,7,1.1803512536547491
+M5 H fraction,stardist,stromal,CG+M+C,A5_full_s123,123,0.953863619999149

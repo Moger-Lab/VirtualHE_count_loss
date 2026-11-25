@@ -1,0 +1,11 @@
+# raw/registered image data and large weights are not part of the repository (see README, Data and weights)
+/data/
+work/runs/*/*.pt
+work/s18_metric_screen/*/img/
+work/s18_metric_screen/*/gallery/
+regenerated/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+logs/
+.DS_Store

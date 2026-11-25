@@ -1,0 +1,5 @@
+version,row,patch_uid,rule,core,bucket,stromal,n_real_orig,eligible,focus,tissue_iou,dark_frac,valid_frac,n_fake_CG,n_fake_CG+M,n_fake_CG+M+A,n_fake_CG+M+C,n_fake_CG_s7,n_fake_CG_s123
+A,sparse,H-2_eval_1323_3087,quality order,H-2,low,0,24,True,0.0010065884562209,0.5451337693596966,0.0046424865722656,1.0,19,26,29,22,59,43
+A,intermediate,F-3_eval_3087_882,quality order,F-3,med,0,40,True,0.0028663803823292,0.3204374137381888,0.0025291442871093,1.0,42,52,46,51,34,26
+A,dense,F-6_eval_2205_3087,owner swap (D-40): next dense patch in quality order,F-6,high,0,81,True,0.0021018632687628,0.3320309896273964,0.0029678344726562,1.0,54,35,25,34,59,39
+A,stromal,C-2_eval_3087_3528,quality order,C-2,low,1,23,True,0.0014319280162453,0.3948326492405949,0.0036582946777343,1.0,40,20,26,13,40,28

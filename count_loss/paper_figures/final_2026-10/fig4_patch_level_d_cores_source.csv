@@ -1,0 +1,6 @@
+rule,core,set,n_in_disc,n_eval_patches_only,n_displayed,median_per_eval_patch_displayed
+candidate,H-2,real,4612,,4600.0,77.0
+candidate,H-2,CG,1810,,1739.0,23.0
+candidate,H-2,CG+M,3131,,3115.0,46.0
+candidate,H-2,CG+M+A,3169,,3158.0,49.0
+candidate,H-2,CG+M+C,3180,,3172.0,47.0

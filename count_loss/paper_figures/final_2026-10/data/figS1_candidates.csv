@@ -1,0 +1,16 @@
+version,row,core,median_nuclei,resid_um,r_50um
+A,sparse,C-8,27.5,2.27,0.6889
+B,sparse,F-6,29.0,3.23,0.4977
+C,sparse,G-3,27.0,4.09,0.4777
+D,sparse,G-6,33.0,4.8,0.4656
+E (unselected),sparse,H-6,32.0,11.69,0.2882
+A,intermediate,B-5,41.0,3.85,0.8282
+B,intermediate,B-10,46.0,2.03,0.7007
+C,intermediate,G-4,41.0,2.25,0.5137
+D,intermediate,D-7,39.0,3.85,0.448
+E (unselected),intermediate,G-9,35.0,1.7,0.3524
+A,dense,D-6,112.5,2.27,0.8113
+B,dense,C-5,76.0,4.42,0.7575
+C,dense,H-2,74.5,2.45,0.6903
+D,dense,G-7,55.0,1.55,0.6669
+E (unselected),dense,G-7,55.0,1.55,0.6669

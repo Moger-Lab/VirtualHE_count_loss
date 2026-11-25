@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Code for: [OWNER: paper title]"
+authors:
+  - family-names: "[OWNER]"
+    given-names: "[OWNER]"
+    affiliation: "[OWNER]"
+version: "1.0.0"
+date-released: "[OWNER: YYYY-MM-DD]"
+license: MIT
+repository-code: "[OWNER: https://github.com/<user>/<repo>]"
+identifiers:
+  - type: doi
+    value: "[OWNER: Zenodo DOI of this release]"
+preferred-citation:
+  type: article
+  title: "[OWNER: paper title]"
+  authors:
+    - family-names: "[OWNER]"
+      given-names: "[OWNER]"
+  journal: "[OWNER]"
+  year: "[OWNER]"
+  doi: "[OWNER]"

@@ -1,0 +1,35 @@
+{
+  "scale_he_px_per_srs_px": 1.02317,
+  "scale_sem": 0.00098,
+  "mirror_he_lr": true,
+  "rotation_deg": 0.0,
+  "srs_um_per_px": 0.22701,
+  "he_um_per_px": 0.22186928858351984,
+  "srs_shape": [
+    4,
+    4408,
+    4408
+  ],
+  "he_shape": [
+    6000,
+    6000,
+    3
+  ],
+  "srs_channels": {
+    "0": "SHG",
+    "1": "fsSRS_broad",
+    "2": "CARS",
+    "3": "TPF"
+  },
+  "excluded_cores": {
+    "A-6": "SRS saturated/rescaled to full uint16; intensity unrecoverable",
+    "A-1": "H&E damaged; disregard for study (project owner)"
+  },
+  "stain_matrix": [
+    0.7451129829836565,
+    0.6101587012703253,
+    0.2692823831098259
+  ],
+  "n_cores": 75,
+  "transform": "he_y = he_cy + (srs_y - (srs_cy + refine_dy)) * scale; he_x = he_cx_mirrored + (srs_x - (srs_cx + refine_dx)) * scale; where he_cx_mirrored = (he_width - 1 - he_cx) if mirror else he_cx, and the H&E array is flipped left-right before sampling."
+}

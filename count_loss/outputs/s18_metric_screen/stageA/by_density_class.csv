@@ -1,0 +1,451 @@
+metric,detector,baseline,model,subset,value
+M1 nuclear area,stardist,rt,CG,low,0.8976854876030474
+M1 nuclear area,stardist,rt,CG,med,0.8801993133651657
+M1 nuclear area,stardist,rt,CG,high,0.9337162046826014
+M1 nuclear area,stardist,rt,CG+M,low,0.8508565993019643
+M1 nuclear area,stardist,rt,CG+M,med,0.8418965740649087
+M1 nuclear area,stardist,rt,CG+M,high,0.9126366207150935
+M1 nuclear area,stardist,rt,CG+M+A,low,0.798888589565573
+M1 nuclear area,stardist,rt,CG+M+A,med,0.7915800383440964
+M1 nuclear area,stardist,rt,CG+M+A,high,0.8422703679062934
+M1 nuclear area,stardist,rt,CG+M+C,low,0.9333493216944603
+M1 nuclear area,stardist,rt,CG+M+C,med,0.9002663168753515
+M1 nuclear area,stardist,rt,CG+M+C,high,0.9375111454627488
+M1 nuclear area,stardist,real,CG,low,0.914156457724974
+M1 nuclear area,stardist,real,CG,med,0.8963343046970897
+M1 nuclear area,stardist,real,CG,high,0.9381195805116139
+M1 nuclear area,stardist,real,CG+M,low,0.8584605426872232
+M1 nuclear area,stardist,real,CG+M,med,0.861506921788858
+M1 nuclear area,stardist,real,CG+M,high,0.9197691999736648
+M1 nuclear area,stardist,real,CG+M+A,low,0.8008846999233371
+M1 nuclear area,stardist,real,CG+M+A,med,0.8058240342984284
+M1 nuclear area,stardist,real,CG+M+A,high,0.8523759883169698
+M1 nuclear area,stardist,real,CG+M+C,low,0.9391771938649299
+M1 nuclear area,stardist,real,CG+M+C,med,0.9194102642173073
+M1 nuclear area,stardist,real,CG+M+C,high,0.9469338556037972
+M4 nuclear H OD,stardist,rt,CG,low,1.154509028719244
+M4 nuclear H OD,stardist,rt,CG,med,1.147088996558966
+M4 nuclear H OD,stardist,rt,CG,high,1.0665261193450297
+M4 nuclear H OD,stardist,rt,CG+M,low,1.1729426196366524
+M4 nuclear H OD,stardist,rt,CG+M,med,1.1692190562623468
+M4 nuclear H OD,stardist,rt,CG+M,high,1.0935650414129534
+M4 nuclear H OD,stardist,rt,CG+M+A,low,1.1198936458641753
+M4 nuclear H OD,stardist,rt,CG+M+A,med,1.1167348195682187
+M4 nuclear H OD,stardist,rt,CG+M+A,high,1.088002523502493
+M4 nuclear H OD,stardist,rt,CG+M+C,low,1.078580357026482
+M4 nuclear H OD,stardist,rt,CG+M+C,med,1.0662395359940977
+M4 nuclear H OD,stardist,rt,CG+M+C,high,1.014052205905161
+M4 nuclear H OD,stardist,real,CG,low,1.1503293192235262
+M4 nuclear H OD,stardist,real,CG,med,1.145971402016229
+M4 nuclear H OD,stardist,real,CG,high,1.0681007823446975
+M4 nuclear H OD,stardist,real,CG+M,low,1.1685014647545888
+M4 nuclear H OD,stardist,real,CG+M,med,1.1731511251685478
+M4 nuclear H OD,stardist,real,CG+M,high,1.0984223105613868
+M4 nuclear H OD,stardist,real,CG+M+A,low,1.1107574693081983
+M4 nuclear H OD,stardist,real,CG+M+A,med,1.1163840143291286
+M4 nuclear H OD,stardist,real,CG+M+A,high,1.0880158076677036
+M4 nuclear H OD,stardist,real,CG+M+C,low,1.074706372805799
+M4 nuclear H OD,stardist,real,CG+M+C,med,1.0642536411247623
+M4 nuclear H OD,stardist,real,CG+M+C,high,1.0170206910935775
+M1 nuclear area,cellvit_sam,rt,CG,low,0.9139556365922913
+M1 nuclear area,cellvit_sam,rt,CG,med,0.9111671342751223
+M1 nuclear area,cellvit_sam,rt,CG,high,0.9966318156621495
+M1 nuclear area,cellvit_sam,rt,CG+M,low,0.8838345515340448
+M1 nuclear area,cellvit_sam,rt,CG+M,med,0.8615353041104203
+M1 nuclear area,cellvit_sam,rt,CG+M,high,0.9495609566867375
+M1 nuclear area,cellvit_sam,rt,CG+M+A,low,0.7681973205518093
+M1 nuclear area,cellvit_sam,rt,CG+M+A,med,0.773967518576678
+M1 nuclear area,cellvit_sam,rt,CG+M+A,high,0.85166575691813
+M1 nuclear area,cellvit_sam,rt,CG+M+C,low,0.9671539519434201
+M1 nuclear area,cellvit_sam,rt,CG+M+C,med,0.9347225162088725
+M1 nuclear area,cellvit_sam,rt,CG+M+C,high,0.9629988157559087
+M1 nuclear area,cellvit_sam,real,CG,low,0.925225952138851
+M1 nuclear area,cellvit_sam,real,CG,med,0.9154762646703403
+M1 nuclear area,cellvit_sam,real,CG,high,1.0148643545884428
+M1 nuclear area,cellvit_sam,real,CG+M,low,0.8840560112805997
+M1 nuclear area,cellvit_sam,real,CG+M,med,0.8685455168527773
+M1 nuclear area,cellvit_sam,real,CG+M,high,0.9688571969480009
+M1 nuclear area,cellvit_sam,real,CG+M+A,low,0.7771849175047368
+M1 nuclear area,cellvit_sam,real,CG+M+A,med,0.7700351422980924
+M1 nuclear area,cellvit_sam,real,CG+M+A,high,0.8693944489310277
+M1 nuclear area,cellvit_sam,real,CG+M+C,low,0.9711780521011505
+M1 nuclear area,cellvit_sam,real,CG+M+C,med,0.9412990161108556
+M1 nuclear area,cellvit_sam,real,CG+M+C,high,0.9806845188808907
+M4 nuclear H OD,cellvit_sam,rt,CG,low,1.1301527883472824
+M4 nuclear H OD,cellvit_sam,rt,CG,med,1.1245542640376118
+M4 nuclear H OD,cellvit_sam,rt,CG,high,1.0557223442352777
+M4 nuclear H OD,cellvit_sam,rt,CG+M,low,1.1575475721946646
+M4 nuclear H OD,cellvit_sam,rt,CG+M,med,1.1688804807907942
+M4 nuclear H OD,cellvit_sam,rt,CG+M,high,1.1003274814937274
+M4 nuclear H OD,cellvit_sam,rt,CG+M+A,low,1.1026587237267866
+M4 nuclear H OD,cellvit_sam,rt,CG+M+A,med,1.1263015323623704
+M4 nuclear H OD,cellvit_sam,rt,CG+M+A,high,1.0824482372186368
+M4 nuclear H OD,cellvit_sam,rt,CG+M+C,low,1.0535460816179105
+M4 nuclear H OD,cellvit_sam,rt,CG+M+C,med,1.0694012999732176
+M4 nuclear H OD,cellvit_sam,rt,CG+M+C,high,1.0196336851095336
+M4 nuclear H OD,cellvit_sam,real,CG,low,1.1494998761569284
+M4 nuclear H OD,cellvit_sam,real,CG,med,1.1372757895958772
+M4 nuclear H OD,cellvit_sam,real,CG,high,1.0652629971965533
+M4 nuclear H OD,cellvit_sam,real,CG+M,low,1.1783998461134415
+M4 nuclear H OD,cellvit_sam,real,CG+M,med,1.1870315325338623
+M4 nuclear H OD,cellvit_sam,real,CG+M,high,1.105504217481036
+M4 nuclear H OD,cellvit_sam,real,CG+M+A,low,1.1254123177411584
+M4 nuclear H OD,cellvit_sam,real,CG+M+A,med,1.1350333768037137
+M4 nuclear H OD,cellvit_sam,real,CG+M+A,high,1.086926035085905
+M4 nuclear H OD,cellvit_sam,real,CG+M+C,low,1.0786502516198686
+M4 nuclear H OD,cellvit_sam,real,CG+M+C,med,1.0796218928726515
+M4 nuclear H OD,cellvit_sam,real,CG+M+C,high,1.0269549696093796
+M1 nuclear area,hovernet,rt,CG,low,0.9537095524135063
+M1 nuclear area,hovernet,rt,CG,med,0.8921343733411558
+M1 nuclear area,hovernet,rt,CG,high,0.8801156303652684
+M1 nuclear area,hovernet,rt,CG+M,low,0.8659854991705954
+M1 nuclear area,hovernet,rt,CG+M,med,0.8200843745874891
+M1 nuclear area,hovernet,rt,CG+M,high,0.8187067937128321
+M1 nuclear area,hovernet,rt,CG+M+A,low,0.8042242146313563
+M1 nuclear area,hovernet,rt,CG+M+A,med,0.7628330912155006
+M1 nuclear area,hovernet,rt,CG+M+A,high,0.7671291265931598
+M1 nuclear area,hovernet,rt,CG+M+C,low,0.9232915534413214
+M1 nuclear area,hovernet,rt,CG+M+C,med,0.8509891715891497
+M1 nuclear area,hovernet,rt,CG+M+C,high,0.8369612728576857
+M1 nuclear area,hovernet,real,CG,low,0.9212030419494877
+M1 nuclear area,hovernet,real,CG,med,0.8661932051938234
+M1 nuclear area,hovernet,real,CG,high,0.8630118754720807
+M1 nuclear area,hovernet,real,CG+M,low,0.8382552300209793
+M1 nuclear area,hovernet,real,CG+M,med,0.7885229461204811
+M1 nuclear area,hovernet,real,CG+M,high,0.8042149052942209
+M1 nuclear area,hovernet,real,CG+M+A,low,0.7871533910299439
+M1 nuclear area,hovernet,real,CG+M+A,med,0.7422333754884543
+M1 nuclear area,hovernet,real,CG+M+A,high,0.7568458190903486
+M1 nuclear area,hovernet,real,CG+M+C,low,0.89477598036025
+M1 nuclear area,hovernet,real,CG+M+C,med,0.8322918092638488
+M1 nuclear area,hovernet,real,CG+M+C,high,0.8297247562032203
+M4 nuclear H OD,hovernet,rt,CG,low,1.0974452976778404
+M4 nuclear H OD,hovernet,rt,CG,med,1.099103455667549
+M4 nuclear H OD,hovernet,rt,CG,high,1.0527346596491505
+M4 nuclear H OD,hovernet,rt,CG+M,low,1.1374979840500579
+M4 nuclear H OD,hovernet,rt,CG+M,med,1.169587708238782
+M4 nuclear H OD,hovernet,rt,CG+M,high,1.1199997267442698
+M4 nuclear H OD,hovernet,rt,CG+M+A,low,1.084027822275077
+M4 nuclear H OD,hovernet,rt,CG+M+A,med,1.1176977159255321
+M4 nuclear H OD,hovernet,rt,CG+M+A,high,1.088036081922972
+M4 nuclear H OD,hovernet,rt,CG+M+C,low,1.0378574997850623
+M4 nuclear H OD,hovernet,rt,CG+M+C,med,1.0669646040925105
+M4 nuclear H OD,hovernet,rt,CG+M+C,high,1.0275929417294554
+M4 nuclear H OD,hovernet,real,CG,low,1.1398141103367012
+M4 nuclear H OD,hovernet,real,CG,med,1.1440210060845604
+M4 nuclear H OD,hovernet,real,CG,high,1.0753224606967475
+M4 nuclear H OD,hovernet,real,CG+M,low,1.1903964780648373
+M4 nuclear H OD,hovernet,real,CG+M,med,1.212675966142011
+M4 nuclear H OD,hovernet,real,CG+M,high,1.1417130621956328
+M4 nuclear H OD,hovernet,real,CG+M+A,low,1.126326423919731
+M4 nuclear H OD,hovernet,real,CG+M+A,med,1.151959057567654
+M4 nuclear H OD,hovernet,real,CG+M+A,high,1.1102161270104594
+M4 nuclear H OD,hovernet,real,CG+M+C,low,1.0804534043431513
+M4 nuclear H OD,hovernet,real,CG+M+C,med,1.1031980297393507
+M4 nuclear H OD,hovernet,real,CG+M+C,high,1.0479354943648393
+M5 mean H (tissue),none,rt,CG,low,1.3217658483028265
+M5 mean H (tissue),none,rt,CG,med,1.1824247489858577
+M5 mean H (tissue),none,rt,CG,high,0.9485824368652226
+M5 mean H (tissue),none,rt,CG,stromal,1.4822785824261222
+M5 mean H (tissue),none,rt,CG+M,low,1.2871493488149413
+M5 mean H (tissue),none,rt,CG+M,med,1.1812497485031828
+M5 mean H (tissue),none,rt,CG+M,high,1.031059560487347
+M5 mean H (tissue),none,rt,CG+M,stromal,1.3567942359275487
+M5 mean H (tissue),none,rt,CG+M+A,low,1.0535002749812057
+M5 mean H (tissue),none,rt,CG+M+A,med,0.9844828536162277
+M5 mean H (tissue),none,rt,CG+M+A,high,0.896404384827363
+M5 mean H (tissue),none,rt,CG+M+A,stromal,1.0976894527181509
+M5 mean H (tissue),none,rt,CG+M+C,low,1.1267702259237398
+M5 mean H (tissue),none,rt,CG+M+C,med,1.0531564577036716
+M5 mean H (tissue),none,rt,CG+M+C,high,0.9469152165324441
+M5 mean H (tissue),none,rt,CG+M+C,stromal,1.1837216245503939
+M5 mean H (tissue),none,real,CG,low,1.3220909393797171
+M5 mean H (tissue),none,real,CG,med,1.1805018385719521
+M5 mean H (tissue),none,real,CG,high,0.9465555701207121
+M5 mean H (tissue),none,real,CG,stromal,1.49881517383367
+M5 mean H (tissue),none,real,CG+M,low,1.2929367466952473
+M5 mean H (tissue),none,real,CG+M,med,1.1764381462555036
+M5 mean H (tissue),none,real,CG+M,high,1.0324968939875834
+M5 mean H (tissue),none,real,CG+M,stromal,1.3666972247175997
+M5 mean H (tissue),none,real,CG+M+A,low,1.0584024786734088
+M5 mean H (tissue),none,real,CG+M+A,med,0.9819718287566174
+M5 mean H (tissue),none,real,CG+M+A,high,0.894362579688933
+M5 mean H (tissue),none,real,CG+M+A,stromal,1.1036469302913272
+M5 mean H (tissue),none,real,CG+M+C,low,1.1304789207814108
+M5 mean H (tissue),none,real,CG+M+C,med,1.050943587124064
+M5 mean H (tissue),none,real,CG+M+C,high,0.948301385821989
+M5 mean H (tissue),none,real,CG+M+C,stromal,1.1942494196097815
+M5 mean E (tissue),none,rt,CG,low,1.0886689038382047
+M5 mean E (tissue),none,rt,CG,med,1.055845547425704
+M5 mean E (tissue),none,rt,CG,high,1.0272441559154721
+M5 mean E (tissue),none,rt,CG,stromal,1.0753922366972486
+M5 mean E (tissue),none,rt,CG+M,low,0.8671891986679622
+M5 mean E (tissue),none,rt,CG+M,med,0.7956410710607957
+M5 mean E (tissue),none,rt,CG+M,high,0.8820569964881368
+M5 mean E (tissue),none,rt,CG+M,stromal,0.9032955814717041
+M5 mean E (tissue),none,rt,CG+M+A,low,0.9581786698704393
+M5 mean E (tissue),none,rt,CG+M+A,med,0.8736361115744558
+M5 mean E (tissue),none,rt,CG+M+A,high,0.9691006853603844
+M5 mean E (tissue),none,rt,CG+M+A,stromal,0.9957659536450736
+M5 mean E (tissue),none,rt,CG+M+C,low,1.0306099174857815
+M5 mean E (tissue),none,rt,CG+M+C,med,0.9685072835398243
+M5 mean E (tissue),none,rt,CG+M+C,high,1.0200071094543812
+M5 mean E (tissue),none,rt,CG+M+C,stromal,1.0468439035126045
+M5 mean E (tissue),none,real,CG,low,1.0861892389831933
+M5 mean E (tissue),none,real,CG,med,1.0484526518087434
+M5 mean E (tissue),none,real,CG,high,1.0217090608164046
+M5 mean E (tissue),none,real,CG,stromal,1.0744596054189752
+M5 mean E (tissue),none,real,CG+M,low,0.865732534943399
+M5 mean E (tissue),none,real,CG+M,med,0.7921895016096442
+M5 mean E (tissue),none,real,CG+M,high,0.8767017966213503
+M5 mean E (tissue),none,real,CG+M,stromal,0.90159676704134
+M5 mean E (tissue),none,real,CG+M+A,low,0.956948858782197
+M5 mean E (tissue),none,real,CG+M+A,med,0.868885264963449
+M5 mean E (tissue),none,real,CG+M+A,high,0.9668247857813416
+M5 mean E (tissue),none,real,CG+M+A,stromal,0.9968022597408908
+M5 mean E (tissue),none,real,CG+M+C,low,1.0318729413790215
+M5 mean E (tissue),none,real,CG+M+C,med,0.9632744837350291
+M5 mean E (tissue),none,real,CG+M+C,high,1.0154035780334871
+M5 mean E (tissue),none,real,CG+M+C,stromal,1.0498029308092203
+M5 H fraction,none,rt,CG,low,1.0778362068801173
+M5 H fraction,none,rt,CG,med,1.0351207774812397
+M5 H fraction,none,rt,CG,high,0.9807472412574086
+M5 H fraction,none,rt,CG,stromal,1.1732492649551796
+M5 H fraction,none,rt,CG+M,low,1.149040222636961
+M5 H fraction,none,rt,CG+M,med,1.1215454477455773
+M5 H fraction,none,rt,CG+M,high,1.0491340660483774
+M5 H fraction,none,rt,CG+M,stromal,1.202938281319418
+M5 H fraction,none,rt,CG+M+A,low,1.0346992453180626
+M5 H fraction,none,rt,CG+M+A,med,1.0369692490529283
+M5 H fraction,none,rt,CG+M+A,high,0.9780569636635378
+M5 H fraction,none,rt,CG+M+A,stromal,1.0475053755685044
+M5 H fraction,none,rt,CG+M+C,low,1.0423868934592393
+M5 H fraction,none,rt,CG+M+C,med,1.0245948961661682
+M5 H fraction,none,rt,CG+M+C,high,0.9779590353351898
+M5 H fraction,none,rt,CG+M+C,stromal,1.074432424660808
+M5 H fraction,none,real,CG,low,1.080339418620139
+M5 H fraction,none,real,CG,med,1.0351845532359152
+M5 H fraction,none,real,CG,high,0.9814650636934533
+M5 H fraction,none,real,CG,stromal,1.1778828884497377
+M5 H fraction,none,real,CG+M,low,1.1515862372258046
+M5 H fraction,none,real,CG+M,med,1.1220111457825477
+M5 H fraction,none,real,CG+M,high,1.0498037391169301
+M5 H fraction,none,real,CG+M,stromal,1.2080692284918122
+M5 H fraction,none,real,CG+M+A,low,1.0367666916651628
+M5 H fraction,none,real,CG+M+A,med,1.0365723707318633
+M5 H fraction,none,real,CG+M+A,high,0.9781858454491582
+M5 H fraction,none,real,CG+M+A,stromal,1.0508962527158436
+M5 H fraction,none,real,CG+M+C,low,1.0439639898714628
+M5 H fraction,none,real,CG+M+C,med,1.0251191448601091
+M5 H fraction,none,real,CG+M+C,high,0.9795571369092958
+M5 H fraction,none,real,CG+M+C,stromal,1.0812984096110718
+M5 mean H (tissue) (absolute),none,-,real orig,low,0.02917701750993725
+M5 mean H (tissue) (absolute),none,-,real orig,med,0.0362758804112672
+M5 mean H (tissue) (absolute),none,-,real orig,high,0.04127453267574305
+M5 mean H (tissue) (absolute),none,-,real orig,stromal,0.0256642922759056
+M5 mean H (tissue) (absolute),none,-,real orig,all,0.037098035216331454
+M5 mean H (tissue) (absolute),none,-,real rt,low,0.029380511492490748
+M5 mean H (tissue) (absolute),none,-,real rt,med,0.0363433118909597
+M5 mean H (tissue) (absolute),none,-,real rt,high,0.0413357131183147
+M5 mean H (tissue) (absolute),none,-,real rt,stromal,0.0257680732756853
+M5 mean H (tissue) (absolute),none,-,real rt,all,0.0371888820081949
+M5 mean H (tissue) (absolute),none,-,CG_full,low,0.04007170535624025
+M5 mean H (tissue) (absolute),none,-,CG_full,med,0.043479310348629896
+M5 mean H (tissue) (absolute),none,-,CG_full,high,0.0395593270659446
+M5 mean H (tissue) (absolute),none,-,CG_full,stromal,0.0391356386244297
+M5 mean H (tissue) (absolute),none,-,CG_full,all,0.0415266770869493
+M5 mean H (tissue) (absolute),none,-,CG_full_s7,low,0.04566621221601955
+M5 mean H (tissue) (absolute),none,-,CG_full_s7,med,0.04762912727892395
+M5 mean H (tissue) (absolute),none,-,CG_full_s7,high,0.0462752077728509
+M5 mean H (tissue) (absolute),none,-,CG_full_s7,stromal,0.0452244542539119
+M5 mean H (tissue) (absolute),none,-,CG_full_s7,all,0.04669418744742865
+M5 mean H (tissue) (absolute),none,-,CG_full_s123,low,0.0362291876226663
+M5 mean H (tissue) (absolute),none,-,CG_full_s123,med,0.03939515165984625
+M5 mean H (tissue) (absolute),none,-,CG_full_s123,high,0.03722354210913175
+M5 mean H (tissue) (absolute),none,-,CG_full_s123,stromal,0.0344371944665908
+M5 mean H (tissue) (absolute),none,-,CG_full_s123,all,0.0377606526017189
+M5 mean H (tissue) (absolute),none,-,CGM_full,low,0.0405925847589969
+M5 mean H (tissue) (absolute),none,-,CGM_full,med,0.044756973162293406
+M5 mean H (tissue) (absolute),none,-,CGM_full,high,0.042859477922320297
+M5 mean H (tissue) (absolute),none,-,CGM_full,stromal,0.036947913467884
+M5 mean H (tissue) (absolute),none,-,CGM_full,all,0.0431753527373075
+M5 mean H (tissue) (absolute),none,-,CGM_full_s7,low,0.03779445029795165
+M5 mean H (tissue) (absolute),none,-,CGM_full_s7,med,0.04285211116075515
+M5 mean H (tissue) (absolute),none,-,CGM_full_s7,high,0.04333380237221715
+M5 mean H (tissue) (absolute),none,-,CGM_full_s7,stromal,0.0366859063506126
+M5 mean H (tissue) (absolute),none,-,CGM_full_s7,all,0.0420028176158666
+M5 mean H (tissue) (absolute),none,-,CGM_full_s123,low,0.0407858937978744
+M5 mean H (tissue) (absolute),none,-,CGM_full_s123,med,0.04433860071003435
+M5 mean H (tissue) (absolute),none,-,CGM_full_s123,high,0.0442509688436985
+M5 mean H (tissue) (absolute),none,-,CGM_full_s123,stromal,0.0383011773228645
+M5 mean H (tissue) (absolute),none,-,CGM_full_s123,all,0.0435599815100431
+M5 mean H (tissue) (absolute),none,-,A1_full,low,0.03296066448092455
+M5 mean H (tissue) (absolute),none,-,A1_full,med,0.037937078624963746
+M5 mean H (tissue) (absolute),none,-,A1_full,high,0.0372282695025205
+M5 mean H (tissue) (absolute),none,-,A1_full,stromal,0.0302122645080089
+M5 mean H (tissue) (absolute),none,-,A1_full,all,0.0365143492817878
+M5 mean H (tissue) (absolute),none,-,A1_full_s7,low,0.0285042133182287
+M5 mean H (tissue) (absolute),none,-,A1_full_s7,med,0.03294084593653675
+M5 mean H (tissue) (absolute),none,-,A1_full_s7,high,0.03504684753715985
+M5 mean H (tissue) (absolute),none,-,A1_full_s7,stromal,0.0265088975429534
+M5 mean H (tissue) (absolute),none,-,A1_full_s7,all,0.0327992737293243
+M5 mean H (tissue) (absolute),none,-,A1_full_s123,low,0.036270700395107255
+M5 mean H (tissue) (absolute),none,-,A1_full_s123,med,0.0399599280208349
+M5 mean H (tissue) (absolute),none,-,A1_full_s123,high,0.04125274531543255
+M5 mean H (tissue) (absolute),none,-,A1_full_s123,stromal,0.0340604856610298
+M5 mean H (tissue) (absolute),none,-,A1_full_s123,all,0.0397703740745782
+M5 mean H (tissue) (absolute),none,-,A5_full,low,0.03671560809016225
+M5 mean H (tissue) (absolute),none,-,A5_full,med,0.04131293483078475
+M5 mean H (tissue) (absolute),none,-,A5_full,high,0.04107966832816595
+M5 mean H (tissue) (absolute),none,-,A5_full,stromal,0.0340691171586513
+M5 mean H (tissue) (absolute),none,-,A5_full,all,0.040391255170106846
+M5 mean H (tissue) (absolute),none,-,A5_full_s7,low,0.03370160609483715
+M5 mean H (tissue) (absolute),none,-,A5_full_s7,med,0.0386487953364849
+M5 mean H (tissue) (absolute),none,-,A5_full_s7,high,0.040929036214947645
+M5 mean H (tissue) (absolute),none,-,A5_full_s7,stromal,0.0317929051816463
+M5 mean H (tissue) (absolute),none,-,A5_full_s7,all,0.0384469665586948
+M5 mean H (tissue) (absolute),none,-,A5_full_s123,low,0.031670289114117595
+M5 mean H (tissue) (absolute),none,-,A5_full_s123,med,0.03692411258816715
+M5 mean H (tissue) (absolute),none,-,A5_full_s123,high,0.03718178719282145
+M5 mean H (tissue) (absolute),none,-,A5_full_s123,stromal,0.0288841743022203
+M5 mean H (tissue) (absolute),none,-,A5_full_s123,all,0.0360301956534385
+M5 mean E (tissue) (absolute),none,-,real orig,low,0.01836512051522725
+M5 mean E (tissue) (absolute),none,-,real orig,med,0.018072317354381
+M5 mean E (tissue) (absolute),none,-,real orig,high,0.018574072979390552
+M5 mean E (tissue) (absolute),none,-,real orig,stromal,0.0196832418441772
+M5 mean E (tissue) (absolute),none,-,real orig,all,0.018359825015068
+M5 mean E (tissue) (absolute),none,-,real rt,low,0.018390075303614098
+M5 mean E (tissue) (absolute),none,-,real rt,med,0.01807654555886975
+M5 mean E (tissue) (absolute),none,-,real rt,high,0.0185142215341329
+M5 mean E (tissue) (absolute),none,-,real rt,stromal,0.0197317469865083
+M5 mean E (tissue) (absolute),none,-,real rt,all,0.018291113898158
+M5 mean E (tissue) (absolute),none,-,CG_full,low,0.019742889329791048
+M5 mean E (tissue) (absolute),none,-,CG_full,med,0.018558045849204
+M5 mean E (tissue) (absolute),none,-,CG_full,high,0.0181992398574948
+M5 mean E (tissue) (absolute),none,-,CG_full,stromal,0.0197235271334648
+M5 mean E (tissue) (absolute),none,-,CG_full,all,0.0186480702832341
+M5 mean E (tissue) (absolute),none,-,CG_full_s7,low,0.02028085850179195
+M5 mean E (tissue) (absolute),none,-,CG_full_s7,med,0.0177408885210752
+M5 mean E (tissue) (absolute),none,-,CG_full_s7,high,0.01879198942333455
+M5 mean E (tissue) (absolute),none,-,CG_full_s7,stromal,0.0206311531364917
+M5 mean E (tissue) (absolute),none,-,CG_full_s7,all,0.018537483178079052
+M5 mean E (tissue) (absolute),none,-,CG_full_s123,low,0.02337816078215835
+M5 mean E (tissue) (absolute),none,-,CG_full_s123,med,0.02125357836484905
+M5 mean E (tissue) (absolute),none,-,CG_full_s123,high,0.0217094384133815
+M5 mean E (tissue) (absolute),none,-,CG_full_s123,stromal,0.0238170959055423
+M5 mean E (tissue) (absolute),none,-,CG_full_s123,all,0.02185756526887415
+M5 mean E (tissue) (absolute),none,-,CGM_full,low,0.0159880211576819
+M5 mean E (tissue) (absolute),none,-,CGM_full,med,0.01445019524544475
+M5 mean E (tissue) (absolute),none,-,CGM_full,high,0.0162854557856917
+M5 mean E (tissue) (absolute),none,-,CGM_full,stromal,0.016477720811963
+M5 mean E (tissue) (absolute),none,-,CGM_full,all,0.0153430197387933
+M5 mean E (tissue) (absolute),none,-,CGM_full_s7,low,0.0137062943540513
+M5 mean E (tissue) (absolute),none,-,CGM_full_s7,med,0.012265761382877799
+M5 mean E (tissue) (absolute),none,-,CGM_full_s7,high,0.012938426807522701
+M5 mean E (tissue) (absolute),none,-,CGM_full_s7,stromal,0.0151501148939132
+M5 mean E (tissue) (absolute),none,-,CGM_full_s7,all,0.01277706446126095
+M5 mean E (tissue) (absolute),none,-,CGM_full_s123,low,0.01809908449649805
+M5 mean E (tissue) (absolute),none,-,CGM_full_s123,med,0.0170236006379127
+M5 mean E (tissue) (absolute),none,-,CGM_full_s123,high,0.0200443947687745
+M5 mean E (tissue) (absolute),none,-,CGM_full_s123,stromal,0.0193077344447374
+M5 mean E (tissue) (absolute),none,-,CGM_full_s123,all,0.01800386235117905
+M5 mean E (tissue) (absolute),none,-,A1_full,low,0.018826414830982602
+M5 mean E (tissue) (absolute),none,-,A1_full,med,0.017302150838077
+M5 mean E (tissue) (absolute),none,-,A1_full,high,0.019116657786071252
+M5 mean E (tissue) (absolute),none,-,A1_full,stromal,0.0198320839554071
+M5 mean E (tissue) (absolute),none,-,A1_full,all,0.01823927555233235
+M5 mean E (tissue) (absolute),none,-,A1_full_s7,low,0.0147365638986229
+M5 mean E (tissue) (absolute),none,-,A1_full_s7,med,0.01311984425410625
+M5 mean E (tissue) (absolute),none,-,A1_full_s7,high,0.014893054962158151
+M5 mean E (tissue) (absolute),none,-,A1_full_s7,stromal,0.0176208186894655
+M5 mean E (tissue) (absolute),none,-,A1_full_s7,all,0.0139752649702131
+M5 mean E (tissue) (absolute),none,-,A1_full_s123,low,0.018844629637896952
+M5 mean E (tissue) (absolute),none,-,A1_full_s123,med,0.01793409697711465
+M5 mean E (tissue) (absolute),none,-,A1_full_s123,high,0.02077335678040975
+M5 mean E (tissue) (absolute),none,-,A1_full_s123,stromal,0.0194436907768249
+M5 mean E (tissue) (absolute),none,-,A1_full_s123,all,0.0188741739839315
+M5 mean E (tissue) (absolute),none,-,A5_full,low,0.0200730953365564
+M5 mean E (tissue) (absolute),none,-,A5_full,med,0.017988544888794353
+M5 mean E (tissue) (absolute),none,-,A5_full,high,0.0193686326965689
+M5 mean E (tissue) (absolute),none,-,A5_full,stromal,0.020443482324481
+M5 mean E (tissue) (absolute),none,-,A5_full,all,0.018906588666141
+M5 mean E (tissue) (absolute),none,-,A5_full_s7,low,0.016072807833552298
+M5 mean E (tissue) (absolute),none,-,A5_full_s7,med,0.013759850990027151
+M5 mean E (tissue) (absolute),none,-,A5_full_s7,high,0.015892144292592947
+M5 mean E (tissue) (absolute),none,-,A5_full_s7,stromal,0.0172697473317384
+M5 mean E (tissue) (absolute),none,-,A5_full_s7,all,0.0148950153961777
+M5 mean E (tissue) (absolute),none,-,A5_full_s123,low,0.02221507672220465
+M5 mean E (tissue) (absolute),none,-,A5_full_s123,med,0.02154885139316315
+M5 mean E (tissue) (absolute),none,-,A5_full_s123,high,0.0224181590601801
+M5 mean E (tissue) (absolute),none,-,A5_full_s123,stromal,0.022560104727745
+M5 mean E (tissue) (absolute),none,-,A5_full_s123,all,0.022040794603526502
+M5 H fraction (absolute),none,-,real orig,low,0.6175071477911276
+M5 H fraction (absolute),none,-,real orig,med,0.6630031135586562
+M5 H fraction (absolute),none,-,real orig,high,0.6807111080604109
+M5 H fraction (absolute),none,-,real orig,stromal,0.562010873394199
+M5 H fraction (absolute),none,-,real orig,all,0.6610039066275016
+M5 H fraction (absolute),none,-,real rt,low,0.61875933080059
+M5 H fraction (absolute),none,-,real rt,med,0.6622672238107608
+M5 H fraction (absolute),none,-,real rt,high,0.6813389416865314
+M5 H fraction (absolute),none,-,real rt,stromal,0.564062428181392
+M5 H fraction (absolute),none,-,real rt,all,0.6619985383026287
+M5 H fraction (absolute),none,-,CG_full,low,0.6735693569119352
+M5 H fraction (absolute),none,-,CG_full,med,0.6955696127158134
+M5 H fraction (absolute),none,-,CG_full,high,0.6762508799016835
+M5 H fraction (absolute),none,-,CG_full,stromal,0.6734465204346025
+M5 H fraction (absolute),none,-,CG_full,all,0.6850113878178554
+M5 H fraction (absolute),none,-,CG_full_s7,low,0.686675188370313
+M5 H fraction (absolute),none,-,CG_full_s7,med,0.73296725604866
+M5 H fraction (absolute),none,-,CG_full_s7,high,0.7102049904466349
+M5 H fraction (absolute),none,-,CG_full_s7,stromal,0.6603677937819434
+M5 H fraction (absolute),none,-,CG_full_s7,all,0.7140578631767751
+M5 H fraction (absolute),none,-,CG_full_s123,low,0.600785958769189
+M5 H fraction (absolute),none,-,CG_full_s123,med,0.6578383363826339
+M5 H fraction (absolute),none,-,CG_full_s123,high,0.6241440576698083
+M5 H fraction (absolute),none,-,CG_full_s123,stromal,0.5739638156164036
+M5 H fraction (absolute),none,-,CG_full_s123,all,0.6340247751644928
+M5 H fraction (absolute),none,-,CGM_full,low,0.7219319170465269
+M5 H fraction (absolute),none,-,CGM_full,med,0.7564040265349411
+M5 H fraction (absolute),none,-,CGM_full,high,0.7254917609175529
+M5 H fraction (absolute),none,-,CGM_full,stromal,0.6997910775401849
+M5 H fraction (absolute),none,-,CGM_full,all,0.7354066738918883
+M5 H fraction (absolute),none,-,CGM_full_s7,low,0.7297351757668009
+M5 H fraction (absolute),none,-,CGM_full_s7,med,0.7771213508925668
+M5 H fraction (absolute),none,-,CGM_full_s7,high,0.7673791713772928
+M5 H fraction (absolute),none,-,CGM_full_s7,stromal,0.710783784497337
+M5 H fraction (absolute),none,-,CGM_full_s7,all,0.7633749500111924
+M5 H fraction (absolute),none,-,CGM_full_s123,low,0.6910188537936588
+M5 H fraction (absolute),none,-,CGM_full_s123,med,0.7259818789891579
+M5 H fraction (absolute),none,-,CGM_full_s123,high,0.6914853792923139
+M5 H fraction (absolute),none,-,CGM_full_s123,stromal,0.663108823791369
+M5 H fraction (absolute),none,-,CGM_full_s123,all,0.7048065325526078
+M5 H fraction (absolute),none,-,A1_full,low,0.6424983966009712
+M5 H fraction (absolute),none,-,A1_full,med,0.6907790127160018
+M5 H fraction (absolute),none,-,A1_full,high,0.6598003929798478
+M5 H fraction (absolute),none,-,A1_full,stromal,0.609930349564598
+M5 H fraction (absolute),none,-,A1_full,all,0.6641402215595043
+M5 H fraction (absolute),none,-,A1_full_s7,low,0.66138461383685
+M5 H fraction (absolute),none,-,A1_full_s7,med,0.7194058266159951
+M5 H fraction (absolute),none,-,A1_full_s7,high,0.7051229367953393
+M5 H fraction (absolute),none,-,A1_full_s7,stromal,0.6201817993129873
+M5 H fraction (absolute),none,-,A1_full_s7,all,0.7013989950369716
+M5 H fraction (absolute),none,-,A1_full_s123,low,0.6548647667276885
+M5 H fraction (absolute),none,-,A1_full_s123,med,0.6905533860534717
+M5 H fraction (absolute),none,-,A1_full_s123,high,0.663407829920025
+M5 H fraction (absolute),none,-,A1_full_s123,stromal,0.6368673227396016
+M5 H fraction (absolute),none,-,A1_full_s123,all,0.6742703301967283
+M5 H fraction (absolute),none,-,A5_full,low,0.6533732488736732
+M5 H fraction (absolute),none,-,A5_full,med,0.6971774805264177
+M5 H fraction (absolute),none,-,A5_full,high,0.6775737994547699
+M5 H fraction (absolute),none,-,A5_full,stromal,0.6228428904252022
+M5 H fraction (absolute),none,-,A5_full,all,0.681450963215235
+M5 H fraction (absolute),none,-,A5_full_s7,low,0.6722310596801259
+M5 H fraction (absolute),none,-,A5_full_s7,med,0.734581019340022
+M5 H fraction (absolute),none,-,A5_full_s7,high,0.721164583004468
+M5 H fraction (absolute),none,-,A5_full_s7,stromal,0.6513300267451146
+M5 H fraction (absolute),none,-,A5_full_s7,all,0.7166309243235913
+M5 H fraction (absolute),none,-,A5_full_s123,low,0.5966336545767832
+M5 H fraction (absolute),none,-,A5_full_s123,med,0.6347825534998113
+M5 H fraction (absolute),none,-,A5_full_s123,high,0.6218735639580112
+M5 H fraction (absolute),none,-,A5_full_s123,stromal,0.567649833430506
+M5 H fraction (absolute),none,-,A5_full_s123,all,0.6200499671112412

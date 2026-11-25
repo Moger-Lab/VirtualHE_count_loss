@@ -1,0 +1,6 @@
+rule,core,set,n_in_disc,n_eval_patches_only,n_displayed,median_per_eval_patch_displayed
+typical,D-2,real,3157,2785,3110.0,42.0
+typical,D-2,CG,2957,2639,2867.0,39.0
+typical,D-2,CG+M,2609,2316,2570.0,34.0
+typical,D-2,CG+M+A,2605,2354,2579.0,35.0
+typical,D-2,CG+M+C,2381,2087,2355.0,30.0
